@@ -7,19 +7,11 @@
     "plugin":[
       {
         "name":"Datatable",
-        "text":"<xmp style="white-space: pre-wrap; overflow-wrap: break-word;">$('#summernote').summernote({
-          placeholder: 'Hello stand alone ui',
-          tabsize: 2,
-          height: 120,
-          toolbar: [
-          ['style', ['style']],
-          ['font', ['bold', 'underline', 'clear']],
-          ['color', ['color']],
-          ['para', ['ul', 'ol', 'paragraph']],
-          ['table', ['table']],
-          ['insert', ['link', 'picture', 'video']],
-          ['view', ['fullscreen', 'codeview', 'help']]
-          ]</xmp>",
+        "text":"<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html" data-slug-hash="PoRQqWM" data-preview="true" data-editable="true" data-user="shishir-bhuiyan" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+        <span>See the Pen <a href="https://codepen.io/shishir-bhuiyan/pen/PoRQqWM">
+        Rendering JSON as nested dropdown menu</a> by Shishir Bhuiyan (<a href="https://codepen.io/shishir-bhuiyan">@shishir-bhuiyan</a>)
+        on <a href="https://codepen.io">CodePen</a>.</span>
+      </p>",
         "link":"https://shishirbhuiyan.github.io/Portfolios-Twos/index.html"
       }
     ]
