@@ -7,7 +7,19 @@
     "plugin":[
       {
         "name":"Datatable",
-        "text":"A <b>computer science portal</b> for <b>geeks</b>",
+        "text":"<xmp style="white-space: pre-wrap; overflow-wrap: break-word;">$('#summernote').summernote({
+          placeholder: 'Hello stand alone ui',
+          tabsize: 2,
+          height: 120,
+          toolbar: [
+          ['style', ['style']],
+          ['font', ['bold', 'underline', 'clear']],
+          ['color', ['color']],
+          ['para', ['ul', 'ol', 'paragraph']],
+          ['table', ['table']],
+          ['insert', ['link', 'picture', 'video']],
+          ['view', ['fullscreen', 'codeview', 'help']]
+          ]</xmp>",
         "link":"https://shishirbhuiyan.github.io/Portfolios-Twos/index.html"
       }
     ]
