@@ -4,8 +4,7 @@
       "popImage":"https://i.postimg.cc/hjXvQv7G/okk.jpg",
       "imageOne":"https://i.postimg.cc/vB4Ft6zp/IMG-20201122-155318.jpg"
     },
-    "plugin":
-    [
+    "plugin":[
       {
         "name":"Datatable",
         "text":"Curbic Portfolio",
