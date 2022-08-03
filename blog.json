@@ -6,9 +6,10 @@
     },
     "plugin":[
       {
-        "name":"Datatable",
-        "text":"<ul><li>Heloo</li><li>Heloo</li<li>Heloo</li><li>Heloo</li><li>Heloo</li></ul>",
-        "link":"<a href='https://codepen.io/shishir-bhuiyan/full/PoRQqWM'>Datatable</a>"
+        "option":"Datatable"
+      },
+      {
+        "option":"SwetAlert"
       }
     ]
   
