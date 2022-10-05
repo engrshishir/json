@@ -12,7 +12,7 @@
       "link":"https://shishirbhuiyan.github.io/Portfolios-Twos/index.html"
     },
     {
-      "type":"ui",
+      "type":"web",
       "image":"https://i.postimg.cc/XNQfTJqq/Pstu-Header-2.png",
       "text":"Header with Dropdown",
       "link":"https://shishirbhuiyan.github.io/Pstu-Header-2/index.html"
@@ -24,13 +24,13 @@
       "link":"https://shishirbhuiyan.github.io/Portfolio-One/index.html"
     },   
     {
-      "type":"ui",
+      "type":"web",
       "image":"https://i.postimg.cc/K8s36FLz/Portfolio-Two.png",
       "text":"Responsive Portfolio",
       "link":" https://shishirbhuiyan.github.io/Another-Portfolio-Demo/index.html"
     },
     {
-      "type":"ui",
+      "type":"web",
       "image":"https://i.postimg.cc/ZqnyY1F8/pstu-header-1.png",
       "text":"Navbar with Slider",
       "link":" https://shishirbhuiyan.github.io/Everything-Pstu_Frontend/index.html"
