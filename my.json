@@ -34,6 +34,12 @@
       "image":"https://i.postimg.cc/ZqnyY1F8/pstu-header-1.png",
       "text":"Navbar with Slider",
       "link":"https://shishirbhuiyan.github.io/Everything-Pstu_Frontend/index.html"
+    },
+    {
+      "type":"laravel",
+      "image":"https://i.postimg.cc/nhVL2w29/Home.png",
+      "text":"Ecommerce Site",
+      "link":"https://github.com/ShishirBhuiyan/Laravel-w3-Ecommerce-website"
     }
   ]
 
