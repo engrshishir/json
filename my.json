@@ -1,39 +1,39 @@
 {
   "about":{
-    "textTwo": "Besides within the web designing and development area in every sector I want to deliver my best. I always try to maintain performance with achievements. I am not a successful programmer but I want to be also successful. Because the program is my way & programming is my passion. If you think? I will help you with your project...🤝🏾 yes, I am ready to assist you InsyaAllah.",
+    "textTwo": "I’m Shishir and interested in doing positive things about every aspect of life. I love projects with challenges. I like working to make an impact in the real world. I always try to work for my world with my community. I learn to extend. Also, I specialize in Front-End and Back-End web Development. At the end of the day, I believe Code never lies 🏃🏾‍♂️",
     "popImage":"https://i.postimg.cc/hjXvQv7G/okk.jpg",
     "imageOne":"https://i.postimg.cc/vB4Ft6zp/IMG-20201122-155318.jpg"
   },
   "portfolio":[
     {
-      "type":"web",
-      "image":"https://i.postimg.cc/BQgKFhrm/Screenshot-1.png",
+      "type":"ui",
+      "image":"https://i.postimg.cc/mDp8H95V/curbic-Portfolio.png",
       "text":"Curbic Portfolio",
       "link":"https://shishirbhuiyan.github.io/Portfolios-Twos/index.html"
     },
     {
-      "type":"web",
-      "image":"https://i.postimg.cc/XNQfTJqq/Pstu-Header-2.png",
-      "text":"Header with Dropdown",
-      "link":"https://shishirbhuiyan.github.io/Pstu-Header-2/index.html"
+      "type":"ui",
+      "image":"https://i.postimg.cc/1t3vXBJf/cv1.png",
+      "text":"Resume",
+      "link":"https://shishircv.netlify.app/"
     },
     {
-      "type":"web",
+      "type":"ui",
       "image":"https://i.postimg.cc/1R7CwR64/Portfolio-One.png",
       "text":"First Portfolio",
       "link":"https://shishirbhuiyan.github.io/Portfolio-One/index.html"
     },   
     {
-      "type":"web",
+      "type":"ui",
       "image":"https://i.postimg.cc/K8s36FLz/Portfolio-Two.png",
       "text":"Responsive Portfolio",
-      "link":" https://shishirbhuiyan.github.io/Another-Portfolio-Demo/index.html"
+      "link":"https://shishirbhuiyan.github.io/Another-Portfolio-Demo/index.html"
     },
     {
-      "type":"web",
+      "type":"ui",
       "image":"https://i.postimg.cc/ZqnyY1F8/pstu-header-1.png",
       "text":"Navbar with Slider",
-      "link":" https://shishirbhuiyan.github.io/Everything-Pstu_Frontend/index.html"
+      "link":"https://shishirbhuiyan.github.io/Everything-Pstu_Frontend/index.html"
     }
   ]
 
