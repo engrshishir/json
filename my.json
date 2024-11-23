@@ -9,7 +9,7 @@
       "type":"ui",
       "image":"https://i.postimg.cc/mDp8H95V/curbic-Portfolio.png",
       "text":"Curbic Portfolio",
-      "link":"https://engg-shishir.github.io/Portfolios-Twos/index.html"
+      "link":"https://engrshishir.github.io/Portfolios-Twos/index.html"
     },
     {
       "type":"ui",
@@ -21,25 +21,25 @@
       "type":"ui",
       "image":"https://i.postimg.cc/1R7CwR64/Portfolio-One.png",
       "text":"First Portfolio",
-      "link":"https://engg-shishir.github.io/Portfolio-One/index.html"
+      "link":"https://engrshishir.github.io/Portfolio-One/index.html"
     },   
     {
       "type":"ui",
       "image":"https://i.postimg.cc/K8s36FLz/Portfolio-Two.png",
       "text":"Responsive Portfolio",
-      "link":"https://engg-shishir.github.io/Another-Portfolio-Demo/index.html"
+      "link":"https://engrshishir.github.io/Another-Portfolio-Demo/index.html"
     },
     {
       "type":"ui",
       "image":"https://i.postimg.cc/ZqnyY1F8/pstu-header-1.png",
       "text":"Navbar with Slider",
-      "link":"https://engg-shishir.github.io/Everything-Pstu_Frontend/index.html"
+      "link":"https://engrshishir.github.io/Everything-Pstu_Frontend/index.html"
     },
     {
       "type":"laravel",
       "image":"https://i.postimg.cc/nhVL2w29/Home.png",
       "text":"Ecommerce Site",
-      "link":"https://github.com/engg-shishir/Laravel-w3-Ecommerce-website"
+      "link":"https://github.com/engrshishir/Laravel-w3-Ecommerce-website"
     }
   ]
 
