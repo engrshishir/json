@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "Post Title Here",
+    "description": "Write your post description here. Copy it manually from LinkedIn or YouTube.",
+    "date": "2025-01-19",
+    "image": "https://yt3.ggpht.com/iP4DaJ1lVEIlaXd1vVj_JKovZQHrT0XFv6sS2KmiP6jNroziEnwo0ND8M72DUtX3lUzPtyaWyT-kKw=s800-c-fcrop64=1,3a2e0000c5d1ffff-rw-nd-v1",
+    "youtubeUrl": "https://www.youtube.com/watch?v=VIDEO_ID",
+    "linkedinUrl": "https://www.linkedin.com/posts/engrshishir_POST_ID",
+    "tags": ["Laravel", "PHP", "Tutorial"],
+    "category": "Tutorial"
+  },
+  {
+    "id": 2,
+    "title": "Another Post Title",
+    "description": "Another post description copied from LinkedIn or YouTube.",
+    "date": "2025-01-10",
+    "image": "https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=VIDEO_ID",
+    "linkedinUrl": "https://www.linkedin.com/posts/engrshishir_POST_ID",
+    "tags": ["Docker", "DevOps"],
+    "category": "DevOps"
+  }
+]
