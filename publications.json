@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Your Paper Title Goes Here: A Study on Something Important",
+    "type": "Conference Paper",
+    "authors": [
+      { "name": "Shishir Bhuiya", "isMe": true },
+      { "name": "Co-Author Name", "isMe": false },
+      { "name": "Supervisor Name", "isMe": false }
+    ],
+    "date": "November 2024",
+    "abstract": "This paper presents a comprehensive study on an important topic in computer science. We propose a novel approach that significantly improves upon existing methods. Our experimental results demonstrate a 30% improvement in performance compared to baseline methods. The proposed framework is evaluated on multiple benchmark datasets and shows consistent improvements across all metrics.",
+    "keywords": ["Machine Learning", "Deep Learning", "Computer Vision", "Neural Networks"],
+    "publicationLink": "https://doi.org/10.xxxx/xxxxxx",
+    "pdfLink": "https://arxiv.org/pdf/xxxx.xxxxx",
+    "codeLink": "https://github.com/engrshishir/paper-repo",
+    "slidesLink": "",
+    "posterLink": "",
+    "conferenceName": "IEEE International Conference on Example (ICEX 2024)",
+    "conferenceLink": "https://example-conference.org"
+  },
+  {
+    "title": "Another Research Paper: Exploring New Frontiers in Software Engineering",
+    "type": "Workshop Paper",
+    "authors": [
+      { "name": "Shishir Bhuiya", "isMe": true },
+      { "name": "Another Author", "isMe": false }
+    ],
+    "date": "June 2024",
+    "abstract": "In this work, we explore new frontiers in software engineering with a focus on automated testing and code quality. We introduce a lightweight tool that integrates seamlessly into existing CI/CD pipelines. Evaluation on open-source projects shows that our tool reduces bug density by 25% while maintaining developer productivity.",
+    "keywords": ["Software Engineering", "Automated Testing", "CI/CD", "Code Quality"],
+    "publicationLink": "https://doi.org/10.xxxx/yyyyyy",
+    "pdfLink": "",
+    "codeLink": "",
+    "slidesLink": "https://slides.example.com/paper2",
+    "posterLink": "",
+    "conferenceName": "ACM Workshop on Software Quality (WSQ 2024)",
+    "conferenceLink": "https://wsq-conference.org"
+  }
+]
