@@ -1,17 +1,154 @@
-{
-    "about":{
-      "textTwo": "Besides within the web designing and development area every sector I want to deliver my best. I always try to maintain performance with achievements. Actually I am not a successful programmer but I want to be also successful. Because the program is my way & programming is my passion. If you think? I will help you with your project...🤝🏾 yes, I am ready to assist you InsyaAllah. ",
-      "popImage":"https://i.postimg.cc/hjXvQv7G/okk.jpg",
-      "imageOne":"https://i.postimg.cc/vB4Ft6zp/IMG-20201122-155318.jpg"
+[
+    {
+        "type": "ui",
+        "banner": "https://i.postimg.cc/mDp8H95V/curbic-Portfolio.png",
+        "title": "Curbic Portfolio",
+        "description": "Curbic Portfolio",
+        "livelink": "https://engrshishir.github.io/Portfolios-Twos/index.html",
+        "githubrepo": "https://engrshishir.github.io/Portfolios-Twos/index.html",
+        "Date": "",
+        "facebookRead": "https://www.facebook.com/engrshishir",
+        "linkedinread": "https://www.linkedin.com/in/engrshishir",
+        "language": "php",
+        "tags": ["UI", "UX", "Design"],
+        "category": "UI/UX",
+        "author": "Shishir",
+        "authorImage": "https://i.postimg.cc/1Xh7Zy2P/engrshishir.jpg",
+        "slider": [
+            {
+                "slidertitle": "Curbic Portfolio",
+                "Sliderdescription": "Curbic Portfolio",
+                "sliderimage": [
+                    "https://i.postimg.cc/3xZs8m9C/curbic-Portfolio-1.png",
+                    "https://i.postimg.cc/3xZs8m9C/curbic-Portfolio-1.png",
+                    "https://i.postimg.cc/3xZs8m9C/curbic-Portfolio-1.png"
+                ]
+            }
+        ]
     },
-    "plugin":[
-      {
-        "option":"Datatable"
-      },
-      {
-        "option":"SwetAlert"
-      }
-    ]
-  
-   
-  }
+    {
+        "type": "ui",
+        "banner": "https://i.postimg.cc/1t3vXBJf/cv1.png",
+        "title": "Resume",
+        "description": "Resume",
+        "livelink": "https://shishircv.netlify.app/",
+        "githubrepo": "https://shishircv.netlify.app/",
+        "Date": "",
+        "facebookRead": "https://www.facebook.com/engrshishir",
+        "linkedinread": "https://www.linkedin.com/in/engrshishir",
+        "language": "html",
+        "tags": ["UI", "UX", "Design"],
+        "category": "UI/UX",
+        "author": "Shishir",
+        "authorImage": "https://i.postimg.cc/1Xh7Zy2P/engrshishir.jpg",
+        "slider": [
+            {
+                "slidertitle": "Resume",
+                "Sliderdescription": "Resume",
+                "sliderimage": [
+                    "https://i.postimg.cc/1t3vXBJf/cv1.png"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "ui",
+        "banner": "https://i.postimg.cc/1R7CwR64/Portfolio-One.png",
+        "title": "First Portfolio",
+        "description": "First Portfolio",
+        "livelink": "https://engrshishir.github.io/Portfolio-One/index.html",
+        "githubrepo": "https://engrshishir.github.io/Portfolio-One/index.html",
+        "Date": "",
+        "facebookRead": "https://www.facebook.com/engrshishir",
+        "linkedinread": "https://www.linkedin.com/in/engrshishir",
+        "language": "html",
+        "tags": ["UI", "UX", "Design"],
+        "category": "UI/UX",
+        "author": "Shishir",
+        "authorImage": "https://i.postimg.cc/1Xh7Zy2P/engrshishir.jpg",
+        "slider": [
+            {
+                "slidertitle": "First Portfolio",
+                "Sliderdescription": "First Portfolio",
+                "sliderimage": [
+                    "https://i.postimg.cc/1R7CwR64/Portfolio-One.png"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "ui",
+        "banner": "https://i.postimg.cc/K8s36FLz/Portfolio-Two.png",
+        "title": "Responsive Portfolio",
+        "description": "Responsive Portfolio",
+        "livelink": "https://engrshishir.github.io/Another-Portfolio-Demo/index.html",
+        "githubrepo": "https://engrshishir.github.io/Another-Portfolio-Demo/index.html",
+        "Date": "",
+        "facebookRead": "https://www.facebook.com/engrshishir",
+        "linkedinread": "https://www.linkedin.com/in/engrshishir",
+        "language": "html",
+        "tags": ["UI", "UX", "Design"],
+        "category": "UI/UX",
+        "author": "Shishir",
+        "authorImage": "https://i.postimg.cc/1Xh7Zy2P/engrshishir.jpg",
+        "slider": [
+            {
+                "slidertitle": "Responsive Portfolio",
+                "Sliderdescription": "Responsive Portfolio",
+                "sliderimage": [
+                    "https://i.postimg.cc/K8s36FLz/Portfolio-Two.png"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "ui",
+        "banner": "https://i.postimg.cc/ZqnyY1F8/pstu-header-1.png",
+        "title": "Navbar with Slider",
+        "description": "Navbar with Slider",
+        "livelink": "https://engrshishir.github.io/Everything-Pstu_Frontend/index.html",
+        "githubrepo": "https://engrshishir.github.io/Everything-Pstu_Frontend/index.html",
+        "Date": "",
+        "facebookRead": "https://www.facebook.com/engrshishir",
+        "linkedinread": "https://www.linkedin.com/in/engrshishir",
+        "language": "html",
+        "tags": ["UI", "UX", "Design"],
+        "category": "UI/UX",
+        "author": "Shishir",
+        "authorImage": "https://i.postimg.cc/1Xh7Zy2P/engrshishir.jpg",
+        "slider": [
+            {
+                "slidertitle": "Navbar with Slider",
+                "Sliderdescription": "Navbar with Slider",
+                "sliderimage": [
+                    "https://i.postimg.cc/ZqnyY1F8/pstu-header-1.png"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "laravel",
+        "banner": "https://i.postimg.cc/nhVL2w29/Home.png",
+        "title": "Ecommerce Site",
+        "description": "Ecommerce Site",
+        "livelink": "https://github.com/engrshishir/Laravel-w3-Ecommerce-website",
+        "githubrepo": "https://github.com/engrshishir/Laravel-w3-Ecommerce-website",
+        "Date": "",
+        "facebookRead": "https://www.facebook.com/engrshishir",
+        "linkedinread": "https://www.linkedin.com/in/engrshishir",
+        "language": "php",
+        "tags": ["Laravel", "PHP", "Ecommerce"],
+        "category": "Laravel",
+        "author": "Shishir",
+        "authorImage": "https://i.postimg.cc/1Xh7Zy2P/engrshishir.jpg",
+        "slider": [
+            {
+                "slidertitle": "Ecommerce Site",
+                "Sliderdescription": "Ecommerce Site",
+                "sliderimage": [
+                    "https://i.postimg.cc/nhVL2w29/Home.png"
+                ]
+            }
+        ]
+    }
+]
