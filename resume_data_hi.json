@@ -1,0 +1,135 @@
+{
+  "personalInfo": {
+    "name": "शिशिर भुइयाँ",
+    "email": "shishir.cse.pstu@gmail.com",
+    "phone": "+8801925696314",
+    "github": {
+      "text": "@engrshishir",
+      "url": "https://github.com/engrshishir"
+    },
+    "website": {
+      "text": "@shishir.pstu",
+      "url": "https://shishir.pstu.ac.bd"
+    }
+  },
+  "education": [
+    {
+      "institution": "पटुआखाली विज्ञान एवं प्रौद्योगिकी विश्वविद्यालय",
+      "degree": "बी.एस.सी. कंप्यूटर साइंस एंड इंजीनियरिंग",
+      "cgpa": "3.463/4.00",
+      "achievement": "मेरिट सूची में 12वें स्थान पर स्नातक",
+      "coursework": "डेटा स्ट्रक्चर और एल्गोरिदम, मशीन लर्निंग, क्रिप्टोग्राफी और सुरक्षा, ऑपरेटिंग सिस्टम, कंप्यूटर आर्किटेक्चर, डेटाबेस प्रबंधन, कंप्यूटर नेटवर्क"
+    }
+  ],
+  "experience": [
+    {
+      "title": "सॉफ्टवेयर इंजीनियर",
+      "company": "RoxNor",
+      "period": "जनवरी 2026 – वर्तमान",
+      "responsibilities": [
+        "सुरक्षित और स्वचालित लेनदेन प्रसंस्करण के लिए BookingEngine में Stripe Payment Gateway एकीकृत किया।",
+        "उपयोगकर्ता खोज और डेटा पुनर्प्राप्ति को अनुकूलित करने के लिए Dynamic Filter System विकसित किया।",
+        "फ्रंटएंड-बैकएंड प्लगइन संचार के लिए RESTful API विकसित किए।",
+        "स्केलेबिलिटी और सिस्टम स्थिरता सुधारने के लिए Booking Panel Architecture का पुनर्गठन किया।"
+      ]
+    },
+    {
+      "title": "फुल-स्टैक डेवलपर",
+      "company": "Squartup",
+      "period": "मई 2024 – दिसंबर 2025",
+      "responsibilities": [
+        "SOLID सिद्धांतों, मॉड्यूलर सर्विस और JWT के साथ सुरक्षित प्रमाणीकरण का उपयोग करके स्केलेबल बैकएंड सिस्टम लागू किए।",
+        "संगठन-स्तरीय डेटा आइसोलेशन, RBAC अनुमतियाँ और कुशल डेटाबेस पार्टीशनिंग रणनीतियाँ तैनात कीं।",
+        "रियल-टाइम लेनदेन सत्यापन, पेमेंट गेटवे एकीकरण (SSLCommerz), मीडिया लाइब्रेरी प्रबंधन और कैंपेन ऑटोमेशन सहित प्रीमियम CRM मॉड्यूल।",
+        "RESTful API विकसित किए और असिंक्रोनस प्रसंस्करण के लिए RabbitMQ को मैसेज ब्रोकर के रूप में एकीकृत किया।",
+        "बल्क ऑपरेशन, Redis कैशिंग और Elasticsearch द्वारा फुल-टेक्स्ट सर्च से प्रदर्शन अनुकूलित किया।",
+        "GitHub Actions के साथ CI/CD पाइपलाइन और Docker डिप्लॉयमेंट लागू किए।"
+      ]
+    },
+    {
+      "title": "प्रोजेक्ट और रिसर्च असिस्टेंट",
+      "company": "CCE विभाग, PSTU",
+      "period": "जनवरी 2025 – दिसंबर 2025",
+      "responsibilities": [
+        {
+          "text": "PSTU के ऑनलाइन वोटिंग सिस्टम सहित वेब एप्लिकेशन बनाए और तैनात किए",
+          "link": "https://vote.pstu.ac.bd"
+        },
+        "शिक्षकों और छात्रों को सॉफ्टवेयर विकास, डेटा प्रसंस्करण और रिपोर्ट ऑटोमेशन में सहायता प्रदान की।"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Lara Dashboard",
+      "link": "https://laradashboard.com",
+      "technologies": "Laravel, React.js, Tailwind CSS, Livewire, Inertia.js",
+      "description": [
+        "GitHub पर 362 स्टार और 142 फोर्क के साथ ओपन-सोर्स एडमिन डैशबोर्ड फ्रेमवर्क में दूसरे शीर्ष योगदानकर्ता।",
+        "डायनामिक मॉड्यूल लोडिंग, RBAC अनुमतियों और स्वच्छ MVC पृथक्करण के साथ मॉड्यूलर एप्लिकेशन आर्किटेक्चर।",
+        "कस्टम थीमिंग सिस्टम के साथ React.js और Tailwind CSS का उपयोग करके रेस्पॉन्सिव फ्रंटएंड विकसित किया।",
+        "Contacts, Activities, Deals, Tickets और Campaign प्रबंधन सहित व्यापक प्रीमियम CRM मॉड्यूल बनाया।",
+        "मीडिया लाइब्रेरी थंबनेल, Bulk Import/Export और Larainitializer स्कैफोल्डिंग पैकेज बनाए।",
+        {
+          "text": "लाइव लिंक: laradashboard.com",
+          "link": "https://laradashboard.com"
+        }
+      ]
+    },
+    {
+      "name": "API Provider",
+      "link": "https://api-provider.example.com",
+      "technologies": "Laravel, PHP, React, Tailwind CSS, MySQL",
+      "description": [
+        "RESTful API बनाए।",
+        "Scramble एकीकरण और सैंडबॉक्स वातावरण के साथ इंटरेक्टिव API दस्तावेज़ीकरण सिस्टम विकसित किया।",
+        "ReactJS का उपयोग करके रेस्पॉन्सिव फ्रंटएंड बनाया।"
+      ]
+    },
+    {
+      "name": "अमारसमिति - सहकारी वित्तीय प्रबंधन प्रणाली",
+      "link": "https://amarsom.com",
+      "technologies": "Laravel, PHP, SSLCommerz, MySQL",
+      "description": [
+        "DPS, FDR, बचत, शेयर प्रबंधन और ऋण प्रसंस्करण मॉड्यूल पेमेंट (SSLCommerz) और BulkSMS सेवाओं के साथ विकसित किए।",
+        "डेटाबेस ट्रांजेक्शन अखंडता, बैलेंस सत्यापन, समवर्ती खाता प्रबंधन और विश्वसनीय असिंक्रोनस प्रसंस्करण के लिए RabbitMQ एकीकृत किया।"
+      ]
+    }
+  ],
+  "skills": {
+    "प्रोग्रामिंग भाषाएँ": "PHP, JavaScript, TypeScript, Python, C, C++",
+    "फ्रंटएंड": "React.js, Tailwind CSS, Bootstrap",
+    "बैकएंड": "Laravel, WordPress Plugin Development, Node.js",
+    "डेटाबेस": "MongoDB, MySQL, PostgreSQL",
+    "डेटा साइंस और मशीन लर्निंग": "Pandas, NumPy, Scikit-learn, PyTorch",
+    "टूल्स और प्लेटफॉर्म": "Git, GitHub, Swagger, CI/CD (GitHub Actions), Postman, Mailpit, Redis, Linux, Docker"
+  },
+  "achievements": [
+    {
+      "title": "अंकुर इंटरनेशनल अंडरग्रेजुएट स्कॉलरशिप",
+      "link": "https://ankur-international.org",
+      "period": "फरवरी 2022 – फरवरी 2024",
+      "description": "शैक्षणिक परियोजना उत्कृष्टता के लिए और उन्नत परियोजनाओं एवं अनुसंधान पहलों को आगे बढ़ाने के लिए प्रोत्साहित करने हेतु प्रदान की गई।"
+    }
+  ],
+  "volunteer": [
+    {
+      "role": "प्रोजेक्ट और टेक्निकल विंग – CSE क्लब PSTU",
+      "link": "https://cseclub.pstu.ac.bd",
+      "period": "जनवरी 2025 - वर्तमान",
+      "description": "500+ छात्रों के लिए तकनीकी कार्यक्रम, वर्कशॉप, हैकाथॉन और प्रोग्रामिंग प्रतियोगिताएं आयोजित करने में सहायता।"
+    },
+    {
+      "role": "विज्ञान और प्रौद्योगिकी सचिव – तारुण्यर स्वप्न फाउंडेशन",
+      "link": "https://tarunyershopno.org",
+      "period": "जुलाई 2019 - मई 2020",
+      "description": "ग्रामीण गैर-लाभकारी संस्था में प्रौद्योगिकी पहल का नेतृत्व, हाई स्कूल और कॉलेज छात्रों के लिए वर्कशॉप आयोजित किए।"
+    },
+    {
+      "role": "रोवर मेट – PSTU रोवर स्काउट",
+      "link": "https://pstu-rovers.org",
+      "period": "2020 - वर्तमान",
+      "description": "संगठन की वेबसाइट विकसित और अनुरक्षित करते हुए स्वैच्छिक स्काउट समूह के लिए प्रौद्योगिकी कार्यक्रमों का समन्वय।"
+    }
+  ]
+}
