@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Certification Title",
+    "issuer": "Issuing Organization",
+    "issueDate": "2024-01",
+    "expiryDate": "2026-01",
+    "credentialId": "CERT-12345",
+    "credentialUrl": "https://example.com/verify/CERT-12345",
+    "badge": "https://example.com/badges/cert.png",
+    "category": "Cloud",
+    "tags": ["AWS", "Cloud", "DevOps"]
+  },
+  {
+    "id": 2,
+    "title": "Another Certification",
+    "issuer": "Another Organization",
+    "issueDate": "2023-06",
+    "expiryDate": null,
+    "credentialId": "CERT-67890",
+    "credentialUrl": "https://example.com/verify/CERT-67890",
+    "badge": "https://example.com/badges/cert2.png",
+    "category": "Development",
+    "tags": ["Laravel", "PHP", "Backend"]
+  }
+]
