@@ -1,0 +1,135 @@
+{
+  "personalInfo": {
+    "name": "Shishir Bhuiya",
+    "email": "shishir.cse.pstu@gmail.com",
+    "phone": "+8801925696314",
+    "github": {
+      "text": "@engrshishir",
+      "url": "https://github.com/engrshishir"
+    },
+    "website": {
+      "text": "@shishir.pstu",
+      "url": "https://shishir.pstu.ac.bd"
+    }
+  },
+  "education": [
+    {
+      "institution": "Patuakhali Science and Technology University",
+      "degree": "B.Sc. in Computer Science and Engineering",
+      "cgpa": "3.463/4.00",
+      "achievement": "Graduated 12th in Merit Position",
+      "coursework": "Data Structures & Algorithms, Machine Learning, Cryptography & Security, Operating Systems, Computer Architecture, Database Management, Computer Networks"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Software Engineer",
+      "company": "RoxNor",
+      "period": "Jan 2026 – Present",
+      "responsibilities": [
+        "Integrated Stripe Payment Gateway into BookingEngine for secure, automated transaction processing.",
+        "Developed a Dynamic Filter System to optimize user search and data retrieval.",
+        "Developed RESTful APIs for seamless frontend-to-backend plugin communication.",
+        "Refactored the Booking Panel Architecture to improve scalability and system stability."
+      ]
+    },
+    {
+      "title": "Full-Stack Developer",
+      "company": "Squartup",
+      "period": "May 2024 – Dec 2025",
+      "responsibilities": [
+        "Implemented scalable backend systems using SOLID principles, modular service, and secure authentication with JWT.",
+        "Deployed organization-level data isolation, RBAC permissions, and efficient database partitioning strategies.",
+        "Premium CRM modules with features like real-time transaction validation, payment gateway integrations (SSLCommerz), media library management and campaign automation etc.",
+        "Developed RESTful APIs, and integrated RabbitMQ as a message broker for asynchronous processing.",
+        "Optimized performance with bulk operations, Redis caching and full-text search powered by Elasticsearch.",
+        "Implemented CI/CD pipelines with GitHub Actions, Dockerized deployments."
+      ]
+    },
+    {
+      "title": "Project and Research Assistant",
+      "company": "CCE Department, PSTU",
+      "period": "Jan 2025 – Dec 2025",
+      "responsibilities": [
+        {
+          "text": "Build and deploying web applications, including the Online Voting System for PSTU",
+          "link": "https://vote.pstu.ac.bd"
+        },
+        "Supported faculty and students with software development, data processing, and report automation."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Lara Dashboard",
+      "link": "https://laradashboard.com",
+      "technologies": "Laravel, React.js, Tailwind CSS, Livewire, Inertia.js",
+      "description": [
+        "Second top contributor to open-source admin dashboard framework with 362 stars and 142 forks on GitHub.",
+        "Architected modular application with dynamic module loading, RBAC permissions, and clean MVC separation.",
+        "Developed responsive frontend using React.js, Tailwind CSS with custom theming system.",
+        "Built comprehensive premium CRM module with Contacts, Activities, Deals, Tickets, and Campaign management.",
+        "Created features: media library with thumbnails, Bulk Import/Export and Larainitializer scaffolding package.",
+        {
+          "text": "Live Link: laradashboard.com",
+          "link": "https://laradashboard.com"
+        }
+      ]
+    },
+    {
+      "name": "API Provider",
+      "link": "https://api-provider.example.com",
+      "technologies": "Laravel, PHP, React, Tailwind CSS, MySQL",
+      "description": [
+        "Built RESTful APIs.",
+        "Developed ian interactiveAPI documentation system with Scramble integration and sandbox environments.",
+        "Created a responsive frontend using ReactJS."
+      ]
+    },
+    {
+      "name": "AmarSomiti - Cooperative Financial Management System",
+      "link": "https://amarsom.com",
+      "technologies": "Laravel, PHP, SSLCommerz, MySQL",
+      "description": [
+        "Developed financial modules: DPS, FDR, Savings, Share management, and Loan processing with payment (SSLCommerz) and BulkSMS services.",
+        "Implemented database transaction integrity, balance validation, concurrent account management, and integrated RabbitMQ as a message broker for reliable asynchronous processing."
+      ]
+    }
+  ],
+  "skills": {
+    "Languages": "PHP, JavaScript, TypeScript, Python, C, C++",
+    "Frontend": "React.js, Tailwind CSS, Bootstrap",
+    "Backend": "Laravel, WordPress Plugin development, Node.js",
+    "Databases": "MongoDB, MySQL, PostgreSQL",
+    "Data Science & Machine Learning": "Pandas, NumPy, Scikit-learn, PyTorch",
+    "Tools & Platforms": "Git, GitHub, Swagger, CI/CD (GitHub Actions), Postman, Mailpit, Redis, Linux, Docker"
+  },
+  "achievements": [
+    {
+      "title": "Ankur International Undergraduate Scholarship",
+      "link": "https://ankur-international.org",
+      "period": "Feb 2022 – Feb 2024",
+      "description": "For academic project excellence and encouraged to pursue advanced projects and research initiatives."
+    }
+  ],
+  "volunteer": [
+    {
+      "role": "Project and Technical Wing – CSE Club PSTU",
+      "link": "https://cseclub.pstu.ac.bd",
+      "period": "January 2025 - Present",
+      "description": "Assist in organizing technical events, workshops, hackathons, and programming contests for 500+ students."
+    },
+    {
+      "role": "Secretary of Science and Technology – Tarunyer Shopno Foundation",
+      "link": "https://tarunyershopno.org",
+      "period": "July 2019 - May 2020",
+      "description": "Lead technology initiatives at village non-profit, organizing workshops for high school and college students."
+    },
+    {
+      "role": "Rover Mate – PSTU Rover Scout",
+      "link": "https://pstu-rovers.org",
+      "period": "2020 - Present",
+      "description": "Develop and maintain organization website while coordinating technology events for voluntary scout group."
+    }
+  ]
+}
