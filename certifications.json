@@ -7,7 +7,7 @@
     "expiryDate": null,
     "credentialId": "b7a58565-2981-4bd7-8ed2-8c6bac4fb51f",
     "credentialUrl": "https://www.life-global.org/certificate/b7a58565-2981-4bd7-8ed2-8c6bac4fb51f",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/engrshishir/json/refs/heads/main/certificate/leadership.png",
     "orgImage": "",
     "badge": "",
     "category": "Leadership",
@@ -40,5 +40,19 @@
     "badge": "",
     "category": "Machine Learning",
     "tags": ["Machine Learning", "Python Programming", "Supervised Learning", "Logistic Regression", "Feature Engineering", "Scikit Learn", "NumPy", "Jupyter", "Data Preprocessing", "Model Optimization", "Algorithms", "Classification Algorithms", "Applied Machine Learning"]
+  },
+  {
+    "id": 4,
+    "title": "Introduction to Packet Tracer",
+    "issuer": "Cisco Networking Academy",
+    "issueDate": "2023-09",
+    "expiryDate": "2023-10",
+    "credentialId": "da290872-fac5-4fed-84cb-2c5b1be255c9",
+    "credentialUrl": "https://www.credly.com/badges/da290872-fac5-4fed-84cb-2c5b1be255c9",
+    "image": "",
+    "orgImage": "",
+    "badge": "",
+    "category": "Networking",
+    "tags": ["Cisco Software", "Computer Simulations"]
   }
 ]
