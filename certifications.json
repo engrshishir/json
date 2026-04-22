@@ -1,26 +1,44 @@
 [
   {
     "id": 1,
-    "title": "Certification Title",
-    "issuer": "Issuing Organization",
-    "issueDate": "2024-01",
-    "expiryDate": "2026-01",
-    "credentialId": "CERT-12345",
-    "credentialUrl": "https://example.com/verify/CERT-12345",
-    "badge": "https://example.com/badges/cert.png",
-    "category": "Cloud",
-    "tags": ["AWS", "Cloud", "DevOps"]
+    "title": "Effective Leadership",
+    "issuer": "HP LIFE",
+    "issueDate": "2024-10",
+    "expiryDate": null,
+    "credentialId": "b7a58565-2981-4bd7-8ed2-8c6bac4fb51f",
+    "credentialUrl": "https://www.life-global.org/certificate/b7a58565-2981-4bd7-8ed2-8c6bac4fb51f",
+    "image": "",
+    "orgImage": "",
+    "badge": "",
+    "category": "Leadership",
+    "tags": ["Leadership", "Ethics", "Management"]
   },
   {
     "id": 2,
-    "title": "Another Certification",
-    "issuer": "Another Organization",
-    "issueDate": "2023-06",
+    "title": "Agile Project Management",
+    "issuer": "HP LIFE",
+    "issueDate": "2024-10",
     "expiryDate": null,
-    "credentialId": "CERT-67890",
-    "credentialUrl": "https://example.com/verify/CERT-67890",
-    "badge": "https://example.com/badges/cert2.png",
-    "category": "Development",
-    "tags": ["Laravel", "PHP", "Backend"]
+    "credentialId": "8a536866-56d6-423b-a908-b1bfff75b5cf",
+    "credentialUrl": "https://www.life-global.org/certificate/8a536866-56d6-423b-a908-b1bfff75b5cf",
+    "image": "",
+    "orgImage": "",
+    "badge": "",
+    "category": "Project Management",
+    "tags": ["Agile", "Scrum", "Kanban", "Project Management"]
+  },
+  {
+    "id": 3,
+    "title": "Supervised Machine Learning: Regression and Classification",
+    "issuer": "Coursera",
+    "issueDate": "2025-01",
+    "expiryDate": null,
+    "credentialId": "WH897LRMYRDS",
+    "credentialUrl": "https://www.coursera.org/account/accomplishments/verify/WH897LRMYRDS",
+    "image": "",
+    "orgImage": "",
+    "badge": "",
+    "category": "Machine Learning",
+    "tags": ["Machine Learning", "Python Programming", "Supervised Learning", "Logistic Regression", "Feature Engineering", "Scikit Learn", "NumPy", "Jupyter", "Data Preprocessing", "Model Optimization", "Algorithms", "Classification Algorithms", "Applied Machine Learning"]
   }
 ]
