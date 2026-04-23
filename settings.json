@@ -7,7 +7,7 @@
     { "code": "hi", "label": "हिन्दी",  "flag": "🇮🇳" }
   ],
   "translated": ["bn", "hi"],
-  "profile": {
+  "ig_featured": "https://www.instagram.com/reel/DUJiem-DEvb/",
     "avatar": "https://shishircv.netlify.app/Asset/image/msb.png",
     "profileTag": "Shishir | SWE @RoxNor | 4x IEEE Publication | PSTU CSE (Rank 12/85)",
     "bio": "I am a Software Engineer who thrives at the intersection of academic rigor and massive-scale engineering. From ranking 12th out of 85 in my CSE cohort to publishing 4 IEEE papers, my foundation is built on deep research and technical precision. Currently, at RoxNor, I architect ultra-scalable systems designed to serve millions. I believe that the fusion of rapid learning and personal accountability is more than a professional trait - it is the engine for national progress and the key to inventing a future that empowers us all",
