@@ -7,8 +7,8 @@
     "expiryDate": null,
     "credentialId": "b7a58565-2981-4bd7-8ed2-8c6bac4fb51f",
     "credentialUrl": "https://www.life-global.org/certificate/b7a58565-2981-4bd7-8ed2-8c6bac4fb51f",
-    "image": "https://raw.githubusercontent.com/engrshishir/json/refs/heads/main/certificate/leadership.png",
-    "orgImage": "",
+    "image": "https://raw.githubusercontent.com/engrshishir/json/refs/heads/main/certificate/hplife-effective-leadership.png",
+    "orgImage": "https://raw.githubusercontent.com/engrshishir/json/refs/heads/main/certificate/hplife.png",
     "badge": "",
     "category": "Leadership",
     "tags": ["Leadership", "Ethics", "Management"]
@@ -21,8 +21,8 @@
     "expiryDate": null,
     "credentialId": "8a536866-56d6-423b-a908-b1bfff75b5cf",
     "credentialUrl": "https://www.life-global.org/certificate/8a536866-56d6-423b-a908-b1bfff75b5cf",
-    "image": "",
-    "orgImage": "",
+    "image": "https://raw.githubusercontent.com/engrshishir/json/refs/heads/main/certificate/hplife-agile-project-management.png",
+    "orgImage": "https://raw.githubusercontent.com/engrshishir/json/refs/heads/main/certificate/hplife.png",
     "badge": "",
     "category": "Project Management",
     "tags": ["Agile", "Scrum", "Kanban", "Project Management"]
@@ -35,8 +35,8 @@
     "expiryDate": null,
     "credentialId": "WH897LRMYRDS",
     "credentialUrl": "https://www.coursera.org/account/accomplishments/verify/WH897LRMYRDS",
-    "image": "",
-    "orgImage": "",
+    "image": "https://raw.githubusercontent.com/engrshishir/json/refs/heads/main/certificate/stanford-supervised-machine-learning.jpeg",
+    "orgImage": "https://raw.githubusercontent.com/engrshishir/json/refs/heads/main/certificate/coursera.webp",
     "badge": "",
     "category": "Machine Learning",
     "tags": ["Machine Learning", "Python Programming", "Supervised Learning", "Logistic Regression", "Feature Engineering", "Scikit Learn", "NumPy", "Jupyter", "Data Preprocessing", "Model Optimization", "Algorithms", "Classification Algorithms", "Applied Machine Learning"]
@@ -49,8 +49,8 @@
     "expiryDate": "2023-10",
     "credentialId": "da290872-fac5-4fed-84cb-2c5b1be255c9",
     "credentialUrl": "https://www.credly.com/badges/da290872-fac5-4fed-84cb-2c5b1be255c9",
-    "image": "",
-    "orgImage": "",
+    "image": "https://raw.githubusercontent.com/engrshishir/json/refs/heads/main/certificate/cisco-introduction-to-packet-tracer.png",
+    "orgImage": "https://raw.githubusercontent.com/engrshishir/json/refs/heads/main/certificate/cisco.png",
     "badge": "",
     "category": "Networking",
     "tags": ["Cisco Software", "Computer Simulations"]
