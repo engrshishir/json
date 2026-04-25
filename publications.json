@@ -91,5 +91,29 @@
       "link": "https://mist.ac.bd/"
     },
     "conferencePhotos": []
+  },
+  {
+    "title": "FTWERF: A Federated Temporal-Weighted Self Evolving Forest Framework under Concept Drift",
+    "type": "Conference Paper",
+    "authors": [
+      { "name": "Shishir Bhuiya", "isMe": true }
+    ],
+    "date": "",
+    "abstract": "Random Forests were traditionally not effective in dealing with changing data streams that have concept drift since they are not typically knowledge management over time. It is the issue of concept drift that appears because of the time dependent changes in the distribution of data. In response to this, the FTWERF suggests the use of the temporally weighted layer to prioritize the more recent data and allow the responsiveness to the newly created patterns. Besides, self evolving strategy and the alteration of the architecture is used by TWERF to guarantee that data is used optimally as the dynamics change. This flexibility is very essential in proper reflection or representation of dynamic systems. This is why it is a good candidate for Federated Learning, a process of training a model over a large number of devices while keeping all the devices synchronized without necessarily storing raw data on a central computer. By gathering these three aspects, the safety is enhanced, memory footprints are minimized, and the processes go on faster. Experimentally We verify FTWERF by proving it is significantly better than simple Random Forests and even competing with the state-of-the-art algorithms. One of the areas that FTWERF is able to handle is temporal data as shown by these results. Such adaptability and adjustment of the structure make it a sound and speedy solution to adapt to the changes of the real-world issues which provide unceasing changes of data streams. FTWERF is advantageous as it is a temporal environment that is training free and provides a great and corrective predictive model of dynamic data-affine tasks. In more specific terms, the temporal weighting is based on an adaptive window in order to give more priority to data that is more relevant to the current detection, and the part that is self evolving is the one that further produces the tree structure and feature selection in a manner that is understandable to evolutionary biology.",
+    "keywords": ["Federated Learning", "Random Forest", "Concept Drift", "Temporal Weighting", "Self-Evolving", "Data Streams", "Machine Learning", "Adaptive Systems"],
+    "publicationLink": "",
+    "facebookPostLink": "",
+    "pdfLink": "",
+    "codeLink": "",
+    "slidesLink": "",
+    "posterLink": "",
+    "conferenceName": "International Conference on Signal Processing, Information, Communication and Systems 2025",
+    "conferenceLink": "https://spicscon.org/2025/",
+    "hostedBy": {
+      "name": "RU",
+      "logo": "https://raw.githubusercontent.com/engrshishir/json/main/Conferance/ru.png",
+      "link": "https://www.ru.ac.bd/"
+    },
+    "conferencePhotos": []
   }
 ]
