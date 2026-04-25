@@ -33,5 +33,38 @@
       "https://raw.githubusercontent.com/engrshishir/json/main/Conferance/ICECTE-2026/6.jpg",
       "https://raw.githubusercontent.com/engrshishir/json/main/Conferance/ICECTE-2026/7.jpg"
     ]
+  },
+  {
+    "title": "THz Metamaterial Absorber with KNN-Based Performance Prediction for Electromagnetic Interference Shielding and Sensing Applications",
+    "type": "Conference Paper",
+    "authors": [
+      { "name": "Shishir Bhuiya", "isMe": true },
+      { "name": "Shadia Islam Ankur", "isMe": false }
+    ],
+    "date": "December 18-19, 2025",
+    "abstract": "Metamaterials are synthetically engineered materials that reflect unique properties attributable to their geometric configuration. The conventional design of MMA is a complex process that necessitates the utilization of computationally demanding full-wave simulators. This research presents a THz metamaterial absorber (MMA) comprising a metallic resonant patch situated above a metallic ground plane, with an FR-4 dielectric substrate in between them. The MMA achieves a sharp resonant peak, a Q-factor of 23, and an absorptivity of 99.96% at 0.89 THz, with a sensitivity of 1.59(905GHz/RIU). At the minimum working frequency, the proposed design is thin (0.027λ) and compact (0.38λ). The KNN regressor attains an RMSE of 0.4576, an adjusted R2 value of 0.9993 for optimal absorptivity prediction, and yields an 85% reduction in simulation duration. It is suitable for electromagnetic interference shielding, stealth, and sensing applications, ensuring reliable performance across diverse environments.",
+    "keywords": ["Metamaterials", "THz Absorber", "KNN Regressor", "Electromagnetic Shielding", "Machine Learning", "Sensing Applications"],
+    "publicationLink": "https://doi.org/10.1109/ICTP68765.2025.11415096",
+    "facebookPostLink": "",
+    "pdfLink": "",
+    "codeLink": "",
+    "slidesLink": "",
+    "posterLink": "",
+    "conferenceName": "6th IEEE International Conference on Telecommunications and Photonics (ICTP) 2025",
+    "conferenceLink": "https://ieee-ictp.buet.ac.bd/",
+    "hostedBy": {
+      "name": "BUET",
+      "logo": "https://raw.githubusercontent.com/engrshishir/json/main/Conferance/buet.svg",
+      "link": "https://www.buet.ac.bd/web/#/"
+    },
+    "conferencePhotos": [
+      "https://raw.githubusercontent.com/engrshishir/json/main/Conferance/ICTP-2026/1.jpg",
+      "https://raw.githubusercontent.com/engrshishir/json/main/Conferance/ICTP-2026/2.jpg",
+      "https://raw.githubusercontent.com/engrshishir/json/main/Conferance/ICTP-2026/3.jpg",
+      "https://raw.githubusercontent.com/engrshishir/json/main/Conferance/ICTP-2026/4.jpg",
+      "https://raw.githubusercontent.com/engrshishir/json/main/Conferance/ICTP-2026/5.jpg",
+      "https://raw.githubusercontent.com/engrshishir/json/main/Conferance/ICTP-2026/6.jpg",
+      "https://raw.githubusercontent.com/engrshishir/json/main/Conferance/ICTP-2026/7.jpg"
+    ]
   }
 ]
