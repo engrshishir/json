@@ -66,5 +66,30 @@
       "https://raw.githubusercontent.com/engrshishir/json/main/Conferance/ICTP-2026/6.jpg",
       "https://raw.githubusercontent.com/engrshishir/json/main/Conferance/ICTP-2026/7.jpg"
     ]
+  },
+  {
+    "title": "MachDishari: IoT- Enabled Aquaculture Using Federated Machine Learning and XAI",
+    "type": "Conference Paper",
+    "authors": [
+      { "name": "Shishir Bhuiya", "isMe": true },
+      { "name": "Md Mohibullah Hawlader", "isMe": false }
+    ],
+    "date": "",
+    "abstract": "The integration of innovative technologies such as the Internet of Things (IoT) and Machine Learning (ML) presents a transformative approach to enhancing traditional fish farming practices. Conventional fish farming often faces challenges due to high labor costs, unmonitored water quality monitoring changes, fish disease outbreaks, and recommendation of optimal fish species. In this paper, present MachDishari system that is IoT based ML recommendation system designed to automate water quality monitoring and suggests appropriate fish species based on various water quality parameters —including pH, temperature, TDS, water level, DO, BOD, COD and turbidity. We developed IoT sensors for real time data collection of water parameters, and machine learning algorithms including Random Forest (RF), Support Vector Machine (SVM), K-Nearest Neighbor (KNN) and Logistic Regression (LR) were applied to the pond water real-time dataset. Federated Learning (FL) into our design integrate for sensitive data privacy and train machine learning models collaboratively without centralizing sensitive data. This approach preserves data privacy and enables farms in remote areas to collaboratively improve model performance without risking data leakage. A range of XAI methods was applied in the present study to enhance the interpretability and transparency of fish recommendation. Among tested models XGBoost that achieved the best performance, delivering 99.8% accuracy was deployed in a web interface and app, enabling farmers to receive real time water quality assessments and fish species recommendations and then expected to enhance fish yield for modern aquaculture with preserving data privacy.",
+    "keywords": ["IoT", "Aquaculture", "Federated Learning", "XAI", "Machine Learning", "Water Quality Monitoring", "Fish Farming", "XGBoost"],
+    "publicationLink": "",
+    "facebookPostLink": "",
+    "pdfLink": "",
+    "codeLink": "",
+    "slidesLink": "",
+    "posterLink": "",
+    "conferenceName": "4th IEEE International Conference on Robotics, Automation, Artificial-intelligence and Internet-of-Things",
+    "conferenceLink": "https://raaicon.org/2025/",
+    "hostedBy": {
+      "name": "MIST",
+      "logo": "",
+      "link": "https://mist.ac.bd/"
+    },
+    "conferencePhotos": []
   }
 ]
