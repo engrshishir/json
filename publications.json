@@ -87,7 +87,7 @@
     "conferenceLink": "https://raaicon.org/2025/",
     "hostedBy": {
       "name": "MIST",
-      "logo": "",
+      "logo": "https://raw.githubusercontent.com/engrshishir/json/main/Conferance/mist.png",
       "link": "https://mist.ac.bd/"
     },
     "conferencePhotos": []
