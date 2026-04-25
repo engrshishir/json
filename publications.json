@@ -8,10 +8,11 @@
       { "name": "Golam Md. Muradul Bashir", "isMe": false },
       { "name": "Md. Samsuzzaman", "isMe": false }
     ],
-    "date": "2026",
+    "date": "",
     "abstract": "JSON Web Tokens (JWTs) are widely adopted as part of stateless authentication systems, but they are still vulnerable to theft of tokens, brute-force attacks, 'alg none' attack risks, and unauthorized access due to the lack of encryption and server side revocation systems. In this paper, the Extended JSON Web Token (EjwT), a safe extension of JWTs based upon dynamic cryptographic randomization, is proposed. The main elements of the proposed scheme are nonce calculation, key identifier swapping, algorithm agility, and encryption using AES-GCM, together with real-time anomaly detection performed by Long Short-Term Memory (LSTM) networks. This work trained the model with a dataset containing more than 33 million authentication events. Techniques like Interquartile Range (IQR) outlier filtering, SMOTE to handle class imbalance, and Pearson Correlation Coefficient driven feature selection are also employed. And with empirical validation, a 99.60% accuracy rate, 95.10% precision, 97.00% recall rate, and 96.04% F1-score are achieved, clearly offering a great step forward from traditional JWTs with regard to integrity, confidentiality, revocation, and resilience to brute force attacks with multi-layered risk-based authentication.",
     "keywords": ["JWT Security", "Authentication", "Cryptography", "LSTM", "Anomaly Detection", "AES-GCM", "Cybersecurity"],
     "publicationLink": "https://ieeexplore.ieee.org/document/11429432/",
+    "facebookPostLink": "",
     "pdfLink": "",
     "codeLink": "",
     "slidesLink": "",
@@ -22,6 +23,15 @@
       "name": "Faculty of ECE, RUET",
       "logo": "https://icecte.ruet.ac.bd/images/RUET.png",
       "link": "https://ruet.ac.bd"
-    }
+    },
+    "conferencePhotos": [
+      "https://github.com/engrshishir/json/blob/main/Conferance/ICECTE-2026/1.jpg",
+      "https://github.com/engrshishir/json/blob/main/Conferance/ICECTE-2026/2.jpg",
+      "https://github.com/engrshishir/json/blob/main/Conferance/ICECTE-2026/3.jpg",
+      "https://github.com/engrshishir/json/blob/main/Conferance/ICECTE-2026/4.jpg",
+      "https://github.com/engrshishir/json/blob/main/Conferance/ICECTE-2026/5.jpg",
+      "https://github.com/engrshishir/json/blob/main/Conferance/ICECTE-2026/6.jpg",
+      "https://github.com/engrshishir/json/blob/main/Conferance/ICECTE-2026/7.jpg"
+    ]
   }
 ]
