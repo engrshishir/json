@@ -1,39 +1,27 @@
 [
   {
-    "title": "Your Paper Title Goes Here: A Study on Something Important",
+    "title": "Extended JSON Web Token (EjwT): A Secure Authentication Framework with Dynamic Cryptographic Randomization and LSTM-based Anomaly Detection",
     "type": "Conference Paper",
     "authors": [
       { "name": "Shishir Bhuiya", "isMe": true },
-      { "name": "Co-Author Name", "isMe": false },
-      { "name": "Supervisor Name", "isMe": false }
+      { "name": "G. M. Shakil", "isMe": false },
+      { "name": "Golam Md. Muradul Bashir", "isMe": false },
+      { "name": "Md. Samsuzzaman", "isMe": false }
     ],
-    "date": "November 2024",
-    "abstract": "This paper presents a comprehensive study on an important topic in computer science. We propose a novel approach that significantly improves upon existing methods. Our experimental results demonstrate a 30% improvement in performance compared to baseline methods. The proposed framework is evaluated on multiple benchmark datasets and shows consistent improvements across all metrics.",
-    "keywords": ["Machine Learning", "Deep Learning", "Computer Vision", "Neural Networks"],
-    "publicationLink": "https://doi.org/10.xxxx/xxxxxx",
-    "pdfLink": "https://arxiv.org/pdf/xxxx.xxxxx",
-    "codeLink": "https://github.com/engrshishir/paper-repo",
-    "slidesLink": "",
-    "posterLink": "",
-    "conferenceName": "IEEE International Conference on Example (ICEX 2024)",
-    "conferenceLink": "https://example-conference.org"
-  },
-  {
-    "title": "Another Research Paper: Exploring New Frontiers in Software Engineering",
-    "type": "Workshop Paper",
-    "authors": [
-      { "name": "Shishir Bhuiya", "isMe": true },
-      { "name": "Another Author", "isMe": false }
-    ],
-    "date": "June 2024",
-    "abstract": "In this work, we explore new frontiers in software engineering with a focus on automated testing and code quality. We introduce a lightweight tool that integrates seamlessly into existing CI/CD pipelines. Evaluation on open-source projects shows that our tool reduces bug density by 25% while maintaining developer productivity.",
-    "keywords": ["Software Engineering", "Automated Testing", "CI/CD", "Code Quality"],
-    "publicationLink": "https://doi.org/10.xxxx/yyyyyy",
+    "date": "2026",
+    "abstract": "JSON Web Tokens (JWTs) are widely adopted as part of stateless authentication systems, but they are still vulnerable to theft of tokens, brute-force attacks, 'alg none' attack risks, and unauthorized access due to the lack of encryption and server side revocation systems. In this paper, the Extended JSON Web Token (EjwT), a safe extension of JWTs based upon dynamic cryptographic randomization, is proposed. The main elements of the proposed scheme are nonce calculation, key identifier swapping, algorithm agility, and encryption using AES-GCM, together with real-time anomaly detection performed by Long Short-Term Memory (LSTM) networks. This work trained the model with a dataset containing more than 33 million authentication events. Techniques like Interquartile Range (IQR) outlier filtering, SMOTE to handle class imbalance, and Pearson Correlation Coefficient driven feature selection are also employed. And with empirical validation, a 99.60% accuracy rate, 95.10% precision, 97.00% recall rate, and 96.04% F1-score are achieved, clearly offering a great step forward from traditional JWTs with regard to integrity, confidentiality, revocation, and resilience to brute force attacks with multi-layered risk-based authentication.",
+    "keywords": ["JWT Security", "Authentication", "Cryptography", "LSTM", "Anomaly Detection", "AES-GCM", "Cybersecurity"],
+    "publicationLink": "https://ieeexplore.ieee.org/document/11429432/",
     "pdfLink": "",
     "codeLink": "",
-    "slidesLink": "https://slides.example.com/paper2",
+    "slidesLink": "",
     "posterLink": "",
-    "conferenceName": "ACM Workshop on Software Quality (WSQ 2024)",
-    "conferenceLink": "https://wsq-conference.org"
+    "conferenceName": "5th International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE 2026)",
+    "conferenceLink": "https://icecte.ruet.ac.bd/",
+    "hostedBy": {
+      "name": "Faculty of ECE, RUET",
+      "logo": "https://icecte.ruet.ac.bd/images/RUET.png",
+      "link": "https://ruet.ac.bd"
+    }
   }
 ]
