@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "LaraDashboard",
+    "banner": "https://laradashboard.com/modules/laradashboard/images/demo.png",
+    "githubUrl": "https://github.com/laradashboard",
+    "liveUrl": "https://laradashboard.com/",
+    "description": "⚡ Lara Dashboard - CMS by Laravel - All In One solution to start your Laravel Application from Basic to Enterprise. Manages Users, Roles, Permissions, Modules, Settings, Translations, Contents, Monitoring and every actions of your Laravel application. Complete solution for Laravel application with Tailwind, Livewire, Rest API, Unit-Tests and more..",
+    "myRole": "Full Stack Developer, I designed and developed the entire dashboard, including user management, role-based access control, and content management features. I also implemented the frontend using Tailwind CSS and Livewire for a responsive and interactive user experience. The full CRM is build by me, and I am responsible for maintaining and updating the project regularly to ensure it meets the needs of users and stays up-to-date with the latest Laravel features and best practices."
+  },
+  {
+    "id": 2,
+    "name": "Task Management App",
+    "banner": "https://theaminul.com/wp-content/uploads/2023/10/ElementsKit_1.png",
+    "githubUrl": "",
+    "liveUrl": "https://wpmet.com/plugin/elementskit/elements/",
+    "description": "With ElementsKit, the all-in-one Elementor addon, every widget & extension can be customized, enabled & disabled! ElementsKit is a powerful and versatile addon for Elementor that offers a wide range of widgets and extensions to enhance your website-building experience. With ElementsKit, you can easily customize each widget and extension to fit your specific needs. You have the flexibility to enable or disable any widget or extension, allowing you to create a tailored website that meets your requirements. Whether you're looking to add interactive elements, advanced design options, or additional functionality, ElementsKit provides the tools you need to create stunning websites with ease.",
+    "myRole": "Fix bugs, add new features, and maintain the plugin to ensure it remains compatible with the latest version of Elementor and WordPress. I also collaborate with the development team to implement new widgets and extensions based on user feedback and market trends. Additionally, I am responsible for optimizing the plugin's performance and ensuring it provides a seamless user experience for our customers."
+  }
+]
