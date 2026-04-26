@@ -5,7 +5,7 @@
     "banner": "https://laradashboard.com/modules/laradashboard/images/demo.png",
     "githubUrl": "https://github.com/laradashboard",
     "liveUrl": "https://laradashboard.com/",
-    "description": "",
+    "description": "LaraDashboard is a comprehensive admin panel and CRM solution built with Laravel, designed to streamline business operations and provide powerful management tools. The platform features a modern, responsive interface built with Tailwind CSS and Livewire, offering real-time interactions and seamless user experience. It includes advanced user management, role-based access control, content management system, and various business modules to handle different aspects of operations efficiently.",
     "myRole": "I designed and developed the entire dashboard, including user management, role-based access control, and content management features. I also implemented the frontend using Tailwind CSS and Livewire for a responsive and interactive user experience. The full CRM is build by me, and I am responsible for maintaining and updating the project regularly to ensure it meets the needs of users and stays up-to-date with the latest Laravel features and best practices.",
     "youtubeVideo": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
   },
@@ -13,7 +13,7 @@
     "id": 2,
     "name": "ElementsKit",
     "banner": "https://theaminul.com/wp-content/uploads/2023/10/ElementsKit_1.png",
-    "githubUrl": "",
+    "githubUrl": "ElementsKit is a comprehensive WordPress plugin that extends Elementor with powerful widgets and advanced features. It provides a complete toolkit for building professional websites with drag-and-drop functionality, including advanced form builders, mega menus, parallax effects, and custom post widgets. The plugin is designed to enhance the Elementor experience while maintaining optimal performance and user-friendly interfaces.ElementsKit is a comprehensive WordPress plugin that enhances the functionality and design capabilities of WordPress websites. It's designed to simplify the website-building process and make it more user-friendly, particularly for users who may not have extensive technical skills. The plugin offers a wide range of modules and widgets, empowering users to create engaging and interactive web pages with ease.",
     "liveUrl": "https://wpmet.com/plugin/elementskit/elements/",
     "description": "",
     "myRole": "Fix bugs, add new features, and maintain the plugin to ensure it remains compatible with the latest version of Elementor and WordPress. I also collaborate with the development team to implement new widgets and extensions based on user feedback and market trends. Additionally, I am responsible for optimizing the plugin's performance and ensuring it provides a seamless user experience for our customers.",
