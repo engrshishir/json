@@ -13,6 +13,7 @@
   "bio": "I am a Software Engineer who thrives at the intersection of academic rigor and massive-scale engineering. From ranking 12th out of 85 in my CSE cohort to publishing 4 IEEE papers, my foundation is built on deep research and technical precision. Currently, at RoxNor, I architect ultra-scalable systems designed to serve millions. I believe that the fusion of rapid learning and personal accountability is more than a professional trait - it is the engine for national progress and the key to inventing a future that empowers us all",
   "socials": [
     { "label": "LinkedIn", "url": "https://linkedin.com/in/engrshishir", "icon": "linkedin" },
+    { "label": "Google Scholar", "url": "https://scholar.google.com/citations?user=YOUR_USER_ID", "icon": "scholar" },
     { "label": "Facebook", "url": "https://facebook.com/engrshishir", "icon": "facebook" },
     { "label": "GitHub", "url": "https://github.com/engrshishir", "icon": "github" }
   ]

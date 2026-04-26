@@ -1,0 +1,76 @@
+{
+  "id": 1,
+  "name": "LaraDashboard",
+  "banner": "https://laradashboard.com/modules/laradashboard/images/demo.png",
+  "fullDescription": "LaraDashboard is a comprehensive admin panel and CRM solution built with Laravel, designed to streamline business operations and provide powerful management tools. The platform features a modern, responsive interface built with Tailwind CSS and Livewire, offering real-time interactions and seamless user experience. It includes advanced user management, role-based access control, content management system, and various business modules to handle different aspects of operations efficiently.",
+  "shortDescription": "A comprehensive Laravel-based admin panel and CRM solution with modern UI and powerful management features.",
+  "tags": [
+    "Laravel",
+    "PHP",
+    "Tailwind CSS",
+    "Livewire",
+    "MySQL",
+    "CRM",
+    "Admin Panel",
+    "Dashboard",
+    "User Management",
+    "RBAC"
+  ],
+  "myRole": "I designed and developed the entire dashboard, including user management, role-based access control, and content management features. I also implemented the frontend using Tailwind CSS and Livewire for a responsive and interactive user experience. The full CRM is build by me, and I am responsible for maintaining and updating the project regularly to ensure it meets the needs of users and stays up-to-date with the latest Laravel features and best practices.",
+  "technologies": {
+    "backend": ["Laravel", "PHP", "MySQL"],
+    "frontend": ["Tailwind CSS", "Livewire", "Alpine.js", "JavaScript"],
+    "tools": ["Composer", "NPM", "Git"]
+  },
+  "features": [
+    "User Management System",
+    "Role-based Access Control",
+    "Content Management",
+    "Real-time Dashboard",
+    "Responsive Design",
+    "Interactive UI Components",
+    "Data Analytics",
+    "Security Features"
+  ],
+  "projectSlider": [
+    {
+      "id": 1,
+      "title": "Dashboard Overview",
+      "image": "https://laradashboard.com/modules/laradashboard/images/dashboard.png",
+      "description": "Main dashboard with analytics and quick access to key features"
+    },
+    {
+      "id": 2,
+      "title": "User Management",
+      "image": "https://laradashboard.com/modules/laradashboard/images/users.png",
+      "description": "Comprehensive user management with role assignments"
+    },
+    {
+      "id": 3,
+      "title": "Content Management",
+      "image": "https://laradashboard.com/modules/laradashboard/images/content.png",
+      "description": "Easy-to-use content management system"
+    },
+    {
+      "id": 4,
+      "title": "Settings Panel",
+      "image": "https://laradashboard.com/modules/laradashboard/images/settings.png",
+      "description": "Configurable settings and system preferences"
+    }
+  ],
+  "links": {
+    "github": "https://github.com/laradashboard",
+    "live": "https://laradashboard.com/",
+    "demo": "https://demo.laradashboard.com/"
+  },
+  "status": "Active",
+  "startDate": "2023-01-15",
+  "lastUpdated": "2024-12-15",
+  "highlights": [
+    "Built from scratch with modern Laravel practices",
+    "Responsive design works on all devices",
+    "Real-time updates using Livewire",
+    "Secure role-based access control",
+    "Optimized for performance and scalability"
+  ]
+}

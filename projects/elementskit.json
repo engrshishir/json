@@ -1,0 +1,78 @@
+{
+  "id": 2,
+  "name": "ElementsKit",
+  "banner": "https://theaminul.com/wp-content/uploads/2023/10/ElementsKit_1.png",
+  "fullDescription": "ElementsKit is a comprehensive WordPress plugin that extends Elementor with powerful widgets and advanced features. It provides a complete toolkit for building professional websites with drag-and-drop functionality, including advanced form builders, mega menus, parallax effects, and custom post widgets. The plugin is designed to enhance the Elementor experience while maintaining optimal performance and user-friendly interfaces.ElementsKit is a comprehensive WordPress plugin that enhances the functionality and design capabilities of WordPress websites. It's designed to simplify the website-building process and make it more user-friendly, particularly for users who may not have extensive technical skills. The plugin offers a wide range of modules and widgets, empowering users to create engaging and interactive web pages with ease.",
+  "shortDescription": "A powerful WordPress plugin extending Elementor with advanced widgets and features for professional website building.",
+  "tags": [
+    "WordPress",
+    "PHP",
+    "Elementor",
+    "JavaScript",
+    "CSS",
+    "Plugin Development",
+    "Widget Development",
+    "Frontend",
+    "UI/UX",
+    "Web Development"
+  ],
+  "myRole": "Fix bugs, add new features, and maintain the plugin to ensure it remains compatible with the latest version of Elementor and WordPress. I also collaborate with the development team to implement new widgets and extensions based on user feedback and market trends. Additionally, I am responsible for optimizing the plugin's performance and ensuring it provides a seamless user experience for our customers.",
+  "technologies": {
+    "backend": ["WordPress", "PHP", "MySQL"],
+    "frontend": ["JavaScript", "CSS", "SCSS", "Elementor API"],
+    "tools": ["Composer", "Webpack", "Git", "WordPress CLI"]
+  },
+  "features": [
+    "Advanced Elementor Widgets",
+    "Mega Menu Builder",
+    "Form Builder with Advanced Fields",
+    "Parallax Effects",
+    "Custom Post Widgets",
+    "Header & Footer Builder",
+    "Modal & Popup Builder",
+    "Advanced Animation Effects",
+    "Responsive Design Controls",
+    "Performance Optimization"
+  ],
+  "projectSlider": [
+    {
+      "id": 1,
+      "title": "Widget Collection",
+      "image": "https://wpmet.com/wp-content/uploads/2023/01/elementskit-widgets.jpg",
+      "description": "Comprehensive collection of advanced Elementor widgets"
+    },
+    {
+      "id": 2,
+      "title": "Mega Menu Builder",
+      "image": "https://wpmet.com/wp-content/uploads/2023/01/mega-menu-builder.jpg",
+      "description": "Powerful drag-and-drop mega menu creation tool"
+    },
+    {
+      "id": 3,
+      "title": "Form Builder",
+      "image": "https://wpmet.com/wp-content/uploads/2023/01/form-builder.jpg",
+      "description": "Advanced form builder with multiple field types and integrations"
+    },
+    {
+      "id": 4,
+      "title": "Header Footer Builder",
+      "image": "https://wpmet.com/wp-content/uploads/2023/01/header-footer.jpg",
+      "description": "Custom header and footer builder with dynamic content"
+    }
+  ],
+  "links": {
+    "github": "",
+    "live": "https://wpmet.com/plugin/elementskit/elements/",
+    "demo": "https://wpmet.com/plugin/elementskit/demo/"
+  },
+  "status": "Active",
+  "startDate": "2022-03-10",
+  "lastUpdated": "2024-12-15",
+  "highlights": [
+    "Over 100+ advanced Elementor widgets",
+    "Compatible with latest WordPress and Elementor versions",
+    "Optimized for performance and speed",
+    "Regular updates and feature additions",
+    "Extensive documentation and support"
+  ]
+}
