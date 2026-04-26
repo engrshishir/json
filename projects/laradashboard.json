@@ -36,25 +36,37 @@
     {
       "id": 1,
       "title": "Dashboard Overview",
-      "image": "https://laradashboard.com/modules/laradashboard/images/dashboard.png",
+      "image": "https://github.com/laradashboard/laradashboard/raw/main/demo-screenshots/00-Login-Page-Lite-Mode.png",
       "description": "Main dashboard with analytics and quick access to key features"
     },
     {
       "id": 2,
       "title": "User Management",
-      "image": "https://laradashboard.com/modules/laradashboard/images/users.png",
+      "image": "https://github.com/laradashboard/laradashboard/raw/main/demo-screenshots/04-Dashboard-Page-Dark-Mode.png",
       "description": "Comprehensive user management with role assignments"
     },
     {
       "id": 3,
       "title": "Content Management",
-      "image": "https://laradashboard.com/modules/laradashboard/images/content.png",
+      "image": "https://github.com/laradashboard/laradashboard/raw/main/demo-screenshots/06-Role-List-Dark.png",
       "description": "Easy-to-use content management system"
     },
     {
       "id": 4,
       "title": "Settings Panel",
-      "image": "https://laradashboard.com/modules/laradashboard/images/settings.png",
+      "image": "https://github.com/laradashboard/laradashboard/raw/main/demo-screenshots/07-Role-Create.png",
+      "description": "Configurable settings and system preferences"
+    },
+    {
+      "id": 4,
+      "title": "Settings Panel",
+      "image": "https://github.com/laradashboard/laradashboard/raw/main/demo-screenshots/11-User-Create-Dark-Mode.png",
+      "description": "Configurable settings and system preferences"
+    },
+    {
+      "id": 4,
+      "title": "Settings Panel",
+      "image": "https://github.com/laradashboard/laradashboard/raw/main/demo-screenshots/12-Profile-Edit-Lite-Mode.png",
       "description": "Configurable settings and system preferences"
     }
   ],
