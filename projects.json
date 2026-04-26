@@ -6,7 +6,8 @@
     "githubUrl": "https://github.com/laradashboard",
     "liveUrl": "https://laradashboard.com/",
     "description": "",
-    "myRole": "I designed and developed the entire dashboard, including user management, role-based access control, and content management features. I also implemented the frontend using Tailwind CSS and Livewire for a responsive and interactive user experience. The full CRM is build by me, and I am responsible for maintaining and updating the project regularly to ensure it meets the needs of users and stays up-to-date with the latest Laravel features and best practices."
+    "myRole": "I designed and developed the entire dashboard, including user management, role-based access control, and content management features. I also implemented the frontend using Tailwind CSS and Livewire for a responsive and interactive user experience. The full CRM is build by me, and I am responsible for maintaining and updating the project regularly to ensure it meets the needs of users and stays up-to-date with the latest Laravel features and best practices.",
+    "youtubeVideo": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
   },
   {
     "id": 2,
@@ -15,6 +16,7 @@
     "githubUrl": "",
     "liveUrl": "https://wpmet.com/plugin/elementskit/elements/",
     "description": "",
-    "myRole": "Fix bugs, add new features, and maintain the plugin to ensure it remains compatible with the latest version of Elementor and WordPress. I also collaborate with the development team to implement new widgets and extensions based on user feedback and market trends. Additionally, I am responsible for optimizing the plugin's performance and ensuring it provides a seamless user experience for our customers."
+    "myRole": "Fix bugs, add new features, and maintain the plugin to ensure it remains compatible with the latest version of Elementor and WordPress. I also collaborate with the development team to implement new widgets and extensions based on user feedback and market trends. Additionally, I am responsible for optimizing the plugin's performance and ensuring it provides a seamless user experience for our customers.",
+    "youtubeVideo": "https://www.youtube.com/watch?v=jNQXAC9IVRw"
   }
 ]
