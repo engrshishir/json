@@ -37,27 +37,27 @@
   "projectSlider": [
     {
       "id": 1,
-      "title": "Widget Collection",
-      "image": "https://wpmet.com/wp-content/uploads/2023/01/elementskit-widgets.jpg",
-      "description": "Comprehensive collection of advanced Elementor widgets"
+      "title": "",
+      "image": "https://wpmet.com/plugin/elementskit/wp-content/uploads/2025/06/header_footer_builder_img-2048x1673.webp",
+      "description": ""
     },
     {
       "id": 2,
-      "title": "Mega Menu Builder",
-      "image": "https://wpmet.com/wp-content/uploads/2023/01/mega-menu-builder.jpg",
-      "description": "Powerful drag-and-drop mega menu creation tool"
+      "title": "",
+      "image": "https://wpmet.com/plugin/elementskit/wp-content/uploads/2025/06/mega_menu_builder_img-2048x1673.webp",
+      "description": ""
     },
     {
       "id": 3,
-      "title": "Form Builder",
-      "image": "https://wpmet.com/wp-content/uploads/2023/01/form-builder.jpg",
-      "description": "Advanced form builder with multiple field types and integrations"
+      "title": "",
+      "image": "https://wpmet.com/plugin/elementskit/wp-content/uploads/2025/07/decoration_thumbnail_image_37.png",
+      "description": ""
     },
     {
       "id": 4,
-      "title": "Header Footer Builder",
-      "image": "https://wpmet.com/wp-content/uploads/2023/01/header-footer.jpg",
-      "description": "Custom header and footer builder with dynamic content"
+      "title": "",
+      "image": "https://wpmet.com/plugin/elementskit/wp-content/uploads/2025/07/decoration_thumbnail_image_31.png",
+      "description": ""
     }
   ],
   "links": {
