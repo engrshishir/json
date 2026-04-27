@@ -32,6 +32,8 @@
       "company": "RoxNor",
       "period": "Jan 2026 – Present",
       "responsibilities": [
+        "Elementskit Centralize Iconpac generator from Icomoon with just few of steps through npm ",
+        "Implement efficient shortcode for Yosuite pricing page",
         "Refactored the Booking Panel booking flow to improve scalability and system stability.",
         "Integrated Stripe Payment Gateway into BookingEngine for secure, automated transaction processing.",
         "Build a dynamic filter system to optimize user search and data retrieval.",
