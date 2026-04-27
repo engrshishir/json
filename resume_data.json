@@ -32,10 +32,13 @@
       "company": "RoxNor",
       "period": "Jan 2026 – Present",
       "responsibilities": [
+        "Refactored the Booking Panel booking flow to improve scalability and system stability.",
         "Integrated Stripe Payment Gateway into BookingEngine for secure, automated transaction processing.",
-        "Developed a Dynamic Filter System to optimize user search and data retrieval.",
+        "Build a dynamic filter system to optimize user search and data retrieval.",
         "Developed RESTful APIs for seamless frontend-to-backend plugin communication.",
-        "Refactored the Booking Panel Architecture to improve scalability and system stability."
+        "Implement data isolation and RBAC permissions",
+        "Fix system timezone handling issues to ensure accurate booking times across regions.",
+        "Mail gateway integration for booking notifications and confirmations."
       ]
     },
     {
