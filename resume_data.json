@@ -87,6 +87,18 @@
       ]
     },
     {
+      "name": "ElementsKit",
+      "link": "https://wpmet.com/plugin/elementskit/elements/",
+      "technologies": "php, wordpress, Javascript",
+      "description": [
+        "Fix bugs, add new features, and maintain the plugin to ensure it remains compatible with the latest version of Elementor and WordPress. I also collaborate with the development team to implement new widgets and extensions based on user feedback and market trends. Additionally, I am responsible for optimizing the plugin's performance and ensuring it provides a seamless user experience for our customers.",
+        {
+          "text": "Live Link: laradashboard.com",
+          "link": "https://laradashboard.com"
+        }
+      ]
+    },
+    {
       "name": "API Provider",
       "link": "https://api-provider.example.com",
       "technologies": "Laravel, PHP, React, Tailwind CSS, MySQL",
