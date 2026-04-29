@@ -9,7 +9,7 @@
       "url": "https://github.com/engrshishir"
     },
     "linkedin": {
-      "text": "@engrshishir",
+      "text": "@shishir-cse-pstu",
       "url": "https://linkedin.com/in/shishir-cse-pstu"
     },
     "website": {
@@ -30,15 +30,16 @@
     {
       "title": "Software Engineer",
       "company": "RoxNor",
+      "companyUrl": "https://roxnor.com",
       "period": "Jan 2026 – Present",
       "responsibilities": [
-        "Elementskit Centralize Iconpac generator from Icomoon with just few of steps through npm ",
-        "Implement efficient shortcode for Yosuite pricing page",
+        "ElementsKit Centralized Iconpack generator from Icomoon with just a few steps through npm",
+        "Implemented efficient shortcode for Yosuite pricing page",
         "Refactored the Booking Panel booking flow to improve scalability and system stability.",
         "Integrated Stripe Payment Gateway into BookingEngine for secure, automated transaction processing.",
-        "Build a dynamic filter system to optimize user search and data retrieval.",
+        "Built a dynamic filter system to optimize user search and data retrieval.",
         "Developed RESTful APIs for seamless frontend-to-backend plugin communication.",
-        "Implement data isolation and RBAC permissions",
+        "Implemented data isolation and RBAC permissions",
         "Fix system timezone handling issues to ensure accurate booking times across regions.",
         "Mail gateway integration for booking notifications and confirmations."
       ]
@@ -46,11 +47,12 @@
     {
       "title": "Full-Stack Developer",
       "company": "Squartup",
+      "companyUrl": "https://squartup.com",
       "period": "May 2024 – Dec 2025",
       "responsibilities": [
         "Implemented scalable backend systems using SOLID principles, modular service, and secure authentication with JWT.",
-        "Deployed organization-level data isolation, RBAC permissions, and efficient database partitioning strategies.",
-        "Premium CRM modules with features like real-time transaction validation, payment gateway integrations (SSLCommerz), media library management and campaign automation etc.",
+        "Implemented organization-level data isolation, RBAC permissions, and efficient database partitioning strategies.",
+        "Built Premium CRM modules from scratch with clean code and robust architecture.",
         "Developed RESTful APIs, and integrated RabbitMQ as a message broker for asynchronous processing.",
         "Optimized performance with bulk operations, Redis caching and full-text search powered by Elasticsearch.",
         "Implemented CI/CD pipelines with GitHub Actions, Dockerized deployments."
@@ -59,10 +61,11 @@
     {
       "title": "Project and Research Assistant",
       "company": "CCE Department, PSTU",
+      "companyUrl": "https://pstu.ac.bd",
       "period": "Jan 2025 – Dec 2025",
       "responsibilities": [
         {
-          "text": "Build and deploying web applications, including the Online Voting System for PSTU",
+          "text": "Built and deployed web applications, including the Online Voting System for PSTU",
           "link": "https://vote.pstu.ac.bd"
         },
         "Supported faculty and students with software development, data processing, and report automation."
@@ -73,13 +76,14 @@
     {
       "name": "Lara Dashboard",
       "link": "https://laradashboard.com",
+      "github": "https://github.com/laradashboard/laradashboard",
       "technologies": "Laravel, React.js, Tailwind CSS, Livewire, Inertia.js",
       "description": [
         "Second top contributor to open-source admin dashboard framework with 362 stars and 142 forks on GitHub.",
         "Architected modular application with dynamic module loading, RBAC permissions, and clean MVC separation.",
         "Developed responsive frontend using React.js, Tailwind CSS with custom theming system.",
         "Built comprehensive premium CRM module with Contacts, Activities, Deals, Tickets, and Campaign management.",
-        "Created features: media library with thumbnails, Bulk Import/Export and Larainitializer scaffolding package.",
+        "Created features: media library with thumbnails, bulk import/export and Laravel initializer scaffolding package.",
         {
           "text": "Live Link: laradashboard.com",
           "link": "https://laradashboard.com"
@@ -104,7 +108,7 @@
       "technologies": "Laravel, PHP, React, Tailwind CSS, MySQL",
       "description": [
         "Built RESTful APIs.",
-        "Developed ian interactiveAPI documentation system with Scramble integration and sandbox environments.",
+        "Developed an interactive API documentation system with Scramble integration and sandbox environments.",
         "Created a responsive frontend using ReactJS."
       ]
     },
@@ -122,7 +126,7 @@
     "Languages": "PHP, JavaScript, TypeScript, Python, C, C++",
     "Frontend": "React.js, Tailwind CSS, Bootstrap",
     "Backend": "Laravel, WordPress Plugin development, Node.js",
-    "Databases": "MongoDB, MySQL, PostgreSQL",
+    "Databases": "MySQL, PostgreSQL",
     "Data Science & Machine Learning": "Pandas, NumPy, Scikit-learn, PyTorch",
     "Tools & Platforms": "Git, GitHub, Swagger, CI/CD, Postman, Mailpit, Redis, Linux, Docker"
   },
