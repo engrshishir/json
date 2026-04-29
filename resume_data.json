@@ -10,7 +10,7 @@
     },
     "linkedin": {
       "text": "@engrshishir",
-      "url": "https://linkedin.com/in/engrshishir"
+      "url": "https://linkedin.com/in/shishir-cse-pstu"
     },
     "website": {
       "text": "engrshishir.vercel.app",
@@ -32,6 +32,8 @@
       "company": "RoxNor",
       "period": "Jan 2026 – Present",
       "responsibilities": [
+        "Elementskit Centralize Iconpac generator from Icomoon with just few of steps through npm ",
+        "Implement efficient shortcode for Yosuite pricing page",
         "Refactored the Booking Panel booking flow to improve scalability and system stability.",
         "Integrated Stripe Payment Gateway into BookingEngine for secure, automated transaction processing.",
         "Build a dynamic filter system to optimize user search and data retrieval.",
@@ -85,6 +87,18 @@
       ]
     },
     {
+      "name": "ElementsKit",
+      "link": "https://wpmet.com/plugin/elementskit",
+      "technologies": "php, wordpress, Javascript",
+      "description": [
+        "Fix bugs, add new features, and maintain the plugin to ensure it remains compatible with the latest version of Elementor and WordPress. I also collaborate with the development team to implement new widgets and extensions based on user feedback and market trends. Additionally, I am responsible for optimizing the plugin's performance and ensuring it provides a seamless user experience for our customers.",
+        {
+          "text": "Website: WpMet | Elementskit",
+          "link": "https://wpmet.com/plugin/elementskit"
+        }
+      ]
+    },
+    {
       "name": "API Provider",
       "link": "https://api-provider.example.com",
       "technologies": "Laravel, PHP, React, Tailwind CSS, MySQL",
@@ -110,7 +124,7 @@
     "Backend": "Laravel, WordPress Plugin development, Node.js",
     "Databases": "MongoDB, MySQL, PostgreSQL",
     "Data Science & Machine Learning": "Pandas, NumPy, Scikit-learn, PyTorch",
-    "Tools & Platforms": "Git, GitHub, Swagger, CI/CD (GitHub Actions), Postman, Mailpit, Redis, Linux, Docker"
+    "Tools & Platforms": "Git, GitHub, Swagger, CI/CD, Postman, Mailpit, Redis, Linux, Docker"
   },
   "achievements": [
     {
