@@ -1,18 +1,79 @@
 [
+  
   {
     "id": 1,
-    "company": "Dynamic Solution Innovators",
-    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHbQYFSQsK9YQ/company-logo_200_200/company-logo_200_200/0/1631313443942?e=2147483647&v=beta&t=placeholder",
-    "role": "Assistant Software Engineer",
-    "startDate": "Jul 2023",
+    "company": "RoxNor",
+    "logo": "https://raw.githubusercontent.com/engrshishir/json/refs/heads/main/Image/roxnor_logo.png",
+    "role": "Software Engineer",
+    "startDate": "May 2026",
     "endDate": "Present",
-    "location": "Mohakhali DOHS, Dhaka, Bangladesh",
-    "technologies": ["Java", "Javascript", "JQuery", "Spring Boot", "React", "ActiveMQ", "Redis", "MongoDB"],
+    "location": "754/1, 4th Floor, West Shewrapara, Begum Rokeya Avenue, Sharini 1216",
+    "companyUrl": "https://roxnor.com",
+    "technologies": ["PHP", "Laravel", "WordPress", "JavaScript", "React.js", "MySQL"],
     "responsibilities": [
-      "Contributing building pages to help clients to manage their audiences, analysis audience responses, generate bills for their audiences and so on.",
-      "Engaged in a sizable Spring MVC project tailored for orchestrating campaign-driven offers, advertisements, and direct mail operations.",
-      "Developing RESTful services utilizing Spring Boot, Express.js, and Node.js to facilitate streamlined AJAX calls and incorporate sophisticated functionalities.",
-      "Engaged in the construction of a bespoke editor using React.js, empowering users to craft tailored email, SMS, and advertising campaigns for specific audiences."
+      "ElementsKit Centralized Iconpack generator from Icomoon with just a few steps through npm.",
+      "Implemented efficient shortcode for Yosuite pricing page.",
+      "Refactored the Booking Panel booking flow to improve scalability and system stability.",
+      "Integrated Stripe Payment Gateway into BookingEngine for secure, automated transaction processing.",
+      "Built a dynamic filter system to optimize user search and data retrieval.",
+      "Developed RESTful APIs for seamless frontend-to-backend plugin communication.",
+      "Implemented data isolation and RBAC permissions.",
+      "Fixed system timezone handling issues to ensure accurate booking times across regions.",
+      "Mail gateway integration for booking notifications and confirmations."
+    ],
+    "images": []
+  },
+  {
+    "id": 2,
+    "company": "RoxNor",
+    "logo": "https://raw.githubusercontent.com/engrshishir/json/refs/heads/main/Image/roxnor_logo.png",
+    "role": "Software Engineer Intern",
+    "startDate": "Jan 2026",
+    "endDate": "Apr 2026",
+    "location": "754/1, 4th Floor, West Shewrapara, Begum Rokeya Avenue, Sharini 1216",
+    "companyUrl": "https://roxnor.com",
+    "technologies": ["PHP", "WordPress"],
+    "responsibilities": [
+      "Learned WordPress core concepts and plugin development fundamentals.",
+      "Built RoxPayment plugin for payment processing integration.",
+      "Built RoxTodo plugin for task management functionality."
+    ],
+    "images": []
+  },
+  
+  {
+    "id": 3,
+    "company": "CCE Department, PSTU",
+    "logo": "https://raw.githubusercontent.com/engrshishir/json/refs/heads/main/Image/pstu.png",
+    "role": "Project and Research Assistant",
+    "startDate": "Jan 2025",
+    "endDate": "Dec 2025",
+    "location": "Patuakhali Science and Technology University",
+    "companyUrl": "https://pstu.ac.bd",
+    "technologies": ["PHP", "Laravel", "MySQL", "JavaScript"],
+    "responsibilities": [
+      "Built and deployed web applications, including the Online Voting System for PSTU (https://vote.pstu.ac.bd).",
+      "Supported faculty and students with software development, data processing, and report automation."
+    ],
+    "images": []
+  },
+  {
+    "id": 4,
+    "company": "Squartup",
+    "logo": "https://raw.githubusercontent.com/engrshishir/json/refs/heads/main/Image/squartup.webp",
+    "role": "Full-Stack Developer",
+    "startDate": "May 2024",
+    "endDate": "Dec 2025",
+    "location": "",
+    "companyUrl": "https://squartup.com",
+    "technologies": ["Laravel", "PHP", "React.js", "Node.js", "Redis", "Elasticsearch", "RabbitMQ", "Docker", "MySQL", "PostgreSQL"],
+    "responsibilities": [
+      "Implemented scalable backend systems using SOLID principles, modular service, and secure authentication with JWT.",
+      "Implemented organization-level data isolation, RBAC permissions, and efficient database partitioning strategies.",
+      "Built Premium CRM modules from scratch with clean code and robust architecture.",
+      "Developed RESTful APIs, and integrated RabbitMQ as a message broker for asynchronous processing.",
+      "Optimized performance with bulk operations, Redis caching and full-text search powered by Elasticsearch.",
+      "Implemented CI/CD pipelines with GitHub Actions, Dockerized deployments."
     ],
     "images": []
   }
