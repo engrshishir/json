@@ -3,7 +3,7 @@
   {
     "id": 1,
     "company": "RoxNor",
-    "logo": "https://raw.githubusercontent.com/engrshishir/json/refs/heads/main/Image/roxnor_logo.png",
+    "logo": "https://raw.githubusercontent.com/engrshishir/json/refs/heads/main/Image/roxnor.jpg",
     "role": "Software Engineer",
     "startDate": "May 2026",
     "endDate": "Present",
@@ -26,7 +26,7 @@
   {
     "id": 2,
     "company": "RoxNor",
-    "logo": "https://raw.githubusercontent.com/engrshishir/json/refs/heads/main/Image/roxnor_logo.png",
+    "logo": "https://raw.githubusercontent.com/engrshishir/json/refs/heads/main/Image/roxnor.jpg",
     "role": "Software Engineer Intern",
     "startDate": "Jan 2026",
     "endDate": "Apr 2026",
