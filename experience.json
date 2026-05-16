@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "company": "Dynamic Solution Innovators",
+    "logo": "https://media.licdn.com/dms/image/v2/C560BAQHbQYFSQsK9YQ/company-logo_200_200/company-logo_200_200/0/1631313443942?e=2147483647&v=beta&t=placeholder",
+    "role": "Assistant Software Engineer",
+    "startDate": "Jul 2023",
+    "endDate": "Present",
+    "location": "Mohakhali DOHS, Dhaka, Bangladesh",
+    "technologies": ["Java", "Javascript", "JQuery", "Spring Boot", "React", "ActiveMQ", "Redis", "MongoDB"],
+    "responsibilities": [
+      "Contributing building pages to help clients to manage their audiences, analysis audience responses, generate bills for their audiences and so on.",
+      "Engaged in a sizable Spring MVC project tailored for orchestrating campaign-driven offers, advertisements, and direct mail operations.",
+      "Developing RESTful services utilizing Spring Boot, Express.js, and Node.js to facilitate streamlined AJAX calls and incorporate sophisticated functionalities.",
+      "Engaged in the construction of a bespoke editor using React.js, empowering users to craft tailored email, SMS, and advertising campaigns for specific audiences."
+    ],
+    "images": []
+  }
+]
