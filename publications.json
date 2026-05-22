@@ -1,6 +1,6 @@
 [
   {
-    "title": "Extended JSON Web Token (EjwT): A Secure Authentication Framework with Dynamic Cryptographic Randomization and LSTM-based Anomaly Detection",
+    "title": "EjwT: Enhancing JWT Security through Dynamic Cryptographic & LSTM Networks",
     "type": "Conference Paper",
     "authors": [
       { "name": "Shishir Bhuiya", "isMe": true },
@@ -13,7 +13,7 @@
     "keywords": ["JWT Security", "Authentication", "Cryptography", "LSTM", "Anomaly Detection", "AES-GCM", "Cybersecurity"],
     "publicationLink": "https://ieeexplore.ieee.org/document/11429432/",
     "facebookPostLink": "",
-    "pdfLink": "",
+    "pdfLink": "https://drive.google.com/uc?export=download&id=11FGFMNWKyzYQqDU2PZo7R0Gqcrzq76-O",
     "codeLink": "",
     "slidesLink": "",
     "posterLink": "",
@@ -35,7 +35,7 @@
     ]
   },
   {
-    "title": "THz Metamaterial Absorber with KNN-Based Performance Prediction for Electromagnetic Interference Shielding and Sensing Applications",
+    "title": "Machine Learning-Enhanced Polarization Insensitive Metamaterial Absorber for Hazardous Gas Detection",
     "type": "Conference Paper",
     "authors": [
       { "name": "Shishir Bhuiya", "isMe": true },
@@ -46,7 +46,7 @@
     "keywords": ["Metamaterials", "THz Absorber", "KNN Regressor", "Electromagnetic Shielding", "Machine Learning", "Sensing Applications"],
     "publicationLink": "https://doi.org/10.1109/ICTP68765.2025.11415096",
     "facebookPostLink": "",
-    "pdfLink": "",
+    "pdfLink": "https://drive.google.com/uc?export=download&id=1FkO3Udoy0A9BPzfJiff3k2FGSqV-jfKC",
     "codeLink": "",
     "slidesLink": "",
     "posterLink": "",
@@ -79,7 +79,7 @@
     "keywords": ["IoT", "Aquaculture", "Federated Learning", "XAI", "Machine Learning", "Water Quality Monitoring", "Fish Farming", "XGBoost"],
     "publicationLink": "https://ieeexplore.ieee.org/abstract/document/11502376",
     "facebookPostLink": "",
-    "pdfLink": "https://drive.google.com/uc?export=download&id=11FGFMNWKyzYQqDU2PZo7R0Gqcrzq76-O",
+    "pdfLink": "https://drive.google.com/uc?export=download&id=1G4k1I76-1NZCHZOyyKHmmj4Uj4b_SMG-",
     "codeLink": "",
     "slidesLink": "",
     "posterLink": "",
@@ -93,7 +93,7 @@
     "conferencePhotos": []
   },
   {
-    "title": "FTWERF: A Federated Temporal-Weighted Self Evolving Forest Framework under Concept Drift",
+    "title": "FTWERF: A Federated Temporal Weighted Self Evolving Forest Framework Under Concept Drift",
     "type": "Conference Paper",
     "authors": [
       { "name": "Shishir Bhuiya", "isMe": true }
@@ -103,7 +103,7 @@
     "keywords": ["Federated Learning", "Random Forest", "Concept Drift", "Temporal Weighting", "Self-Evolving", "Data Streams", "Machine Learning", "Adaptive Systems"],
     "publicationLink": "https://ieeexplore.ieee.org/document/11504106",
     "facebookPostLink": "",
-    "pdfLink": "",
+    "pdfLink": "https://drive.google.com/uc?export=download&id=1vAE_dqw7SVj9ybxnVdtmvis11vyg1qIC",
     "codeLink": "",
     "slidesLink": "",
     "posterLink": "",
