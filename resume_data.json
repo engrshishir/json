@@ -33,15 +33,7 @@
       "companyUrl": "https://roxnor.com",
       "period": "Jan 2026 – Present",
       "responsibilities": [
-        "ElementsKit Centralized Iconpack generator from Icomoon with just a few steps through npm",
-        "Implemented efficient shortcode for Yosuite pricing page",
-        "Refactored the Booking Panel booking flow to improve scalability and system stability.",
-        "Integrated Stripe Payment Gateway into BookingEngine for secure, automated transaction processing.",
-        "Built a dynamic filter system to optimize user search and data retrieval.",
-        "Developed RESTful APIs for seamless frontend-to-backend plugin communication.",
-        "Implemented data isolation and RBAC permissions",
-        "Fix system timezone handling issues to ensure accurate booking times across regions.",
-        "Mail gateway integration for booking notifications and confirmations."
+        "I work closely with the Wpmet team across their flagship products — ElementsKit, Rox Appointment Booking, and GutenKit. I contribute to feature development, payment and email system setup, API design, and quality assurance across these plugins. This experience continues to deepen my understanding of how large-scale WordPress products are built, maintained, and improved with every release."
       ]
     },
     {
@@ -50,12 +42,9 @@
       "companyUrl": "https://squartup.com",
       "period": "May 2024 – Dec 2025",
       "responsibilities": [
-        "Implemented scalable backend systems using SOLID principles, modular service, and secure authentication with JWT.",
-        "Implemented organization-level data isolation, RBAC permissions, and efficient database partitioning strategies.",
-        "Built Premium CRM modules from scratch with clean code and robust architecture.",
-        "Developed RESTful APIs, and integrated RabbitMQ as a message broker for asynchronous processing.",
-        "Optimized performance with bulk operations, Redis caching and full-text search powered by Elasticsearch.",
-        "Implemented CI/CD pipelines with GitHub Actions, Dockerized deployments."
+        "Took full ownership of the core platform backend, designing scalable systems using SOLID principles and modular architecture. Built scalable backend systems using SOLID principles and modular architecture, implemented JWT-based authentication, and designed organization-level data isolation with RBAC permissions and database partitioning.",
+        "Led development of a premium CRM module with real-time transaction validation, payment gateway integration, media library, and campaign automation.",
+        "Architected RESTful APIs, integrated RabbitMQ for asynchronous processing, optimized performance with Redis caching and Elasticsearch full-text search, and established CI/CD pipelines with GitHub Actions and Dockerized deployments."
       ]
     },
     {
@@ -65,57 +54,71 @@
       "period": "Jan 2025 – Dec 2025",
       "responsibilities": [
         {
-          "text": "Built and deployed web applications, including the Online Voting System for PSTU",
-          "link": "https://vote.pstu.ac.bd"
+          "text": "Worked at the ICT Cell of PSTU, building and deploying web applications including the Online Voting System used by the university community.",
+          "link": "https://onlinevoting.pstu.ac.bd/"
         },
-        "Supported faculty and students with software development, data processing, and report automation."
+        "Supported faculty and students with software development, data processing, and report automation, gaining hands-on experience in delivering practical digital solutions within an institutional environment."
       ]
     }
   ],
   "projects": [
     {
       "name": "Lara Dashboard",
-      "link": "https://laradashboard.com",
+      "link": "https://demo.laradashboard.com",
       "github": "https://github.com/laradashboard/laradashboard",
       "technologies": "Laravel, React.js, Tailwind CSS, Livewire, Inertia.js",
       "description": [
-        "Second top contributor to open-source admin dashboard framework with 362 stars and 142 forks on GitHub.",
-        "Architected modular application with dynamic module loading, RBAC permissions, and clean MVC separation.",
-        "Developed responsive frontend using React.js, Tailwind CSS with custom theming system.",
-        "Built comprehensive premium CRM module with Contacts, Activities, Deals, Tickets, and Campaign management.",
-        "Created features: media library with thumbnails, bulk import/export and Laravel initializer scaffolding package.",
+        "Architected an open-source enterprise dashboard using SOLID principles, modular service, and secure authentication with JWT.",
+        "Deployed organization-level data isolation, RBAC permissions, and efficient database partitioning strategies.",
+        "Premium CRM modules with features like real-time transaction validation, payment gateway integrations (SSLCommerz), media library management and campaign automation etc.",
+        "Developed RESTful APIs, and integrated RabbitMQ as a message broker for asynchronous processing.",
+        "Optimized performance with bulk operations, Redis caching and full-text search powered by Elasticsearch.",
+        "Implemented CI/CD pipelines with GitHub Actions, Dockerized deployments.",
         {
-          "text": "Live Link: laradashboard.com",
-          "link": "https://laradashboard.com"
+          "text": "Github: https://github.com/laradashboard/laradashboard",
+          "link": "https://github.com/laradashboard/laradashboard"
+        }
+      ]
+    },
+    {
+      "name": "Rox Appointment Booking",
+      "link": "https://wordpress.org/plugins/rox-appointment-bookings/",
+      "technologies": "WordPress, PHP, REST API, JavaScript",
+      "description": [
+        "Integrated Stripe payment gateway with pay-later option, deposit handling, order sync, and robust error management.",
+        "Built custom email gateway settings with WordPress default mail and SMTP configuration, plus conditional rendering.",
+        "Developed REST API for booking engine, customer login, service categories, dynamic filters with RBAC authorization.",
+        "Normalized all datetime storage to UTC to ensure global timezone consistency across locations and staff.",
+        "Built payment form structure for frontend and backend with conditional Stripe settings.",
+        "Implemented role-based access control, calendar API support, company settings, and customer management workflows.",
+        {
+          "text": "Plugin Link: https://wordpress.org/plugins/rox-appointment-bookings",
+          "link": "https://wordpress.org/plugins/rox-appointment-bookings/"
         }
       ]
     },
     {
       "name": "ElementsKit",
-      "link": "https://wpmet.com/plugin/elementskit",
-      "technologies": "php, wordpress, Javascript",
+      "link": "https://wpmet.com/plugin/elementskit/",
+      "technologies": "WordPress, PHP, JavaScript",
       "description": [
-        "Fix bugs, add new features, and maintain the plugin to ensure it remains compatible with the latest version of Elementor and WordPress. I also collaborate with the development team to implement new widgets and extensions based on user feedback and market trends. Additionally, I am responsible for optimizing the plugin's performance and ensuring it provides a seamless user experience for our customers.",
+        "Contributed to an all-in-one Elementor addon trusted by 1M+ users by building new widgets and enhancing existing features.",
+        "Built new widgets including TikTok Feed, Circle Menu, Hotspot, and Protected Content with advanced styling controls.",
+        "Enhanced Instagram Feed widget with video media support, post reaction footer, and profile header display fixes.",
+        "Developed Iconpack Generator tool and advanced popup search feature for improved site navigation.",
+        "Resolved critical copy-paste content sync issues across advanced widgets, ensuring consistent editor behavior.",
+        "Added responsive breakpoint support, Glassmorphism effects, and granular styling controls across multiple widgets.",
+        "Maintained changelog documentation and addressed PHP deprecation issues to keep the codebase production-ready.",
         {
-          "text": "Website: WpMet | Elementskit",
-          "link": "https://wpmet.com/plugin/elementskit"
+          "text": "Plugin Link: https://wpmet.com/plugin/elementskit/",
+          "link": "https://wpmet.com/plugin/elementskit/"
         }
       ]
     },
     {
-      "name": "API Provider",
-      "link": "https://api-provider.example.com",
-      "technologies": "Laravel, PHP, React, Tailwind CSS, MySQL",
-      "description": [
-        "Built RESTful APIs.",
-        "Developed an interactive API documentation system with Scramble integration and sandbox environments.",
-        "Created a responsive frontend using ReactJS."
-      ]
-    },
-    {
       "name": "AmarSomiti - Cooperative Financial Management System",
-      "link": "https://amarsom.com",
-      "technologies": "Laravel, PHP, SSLCommerz, MySQL",
+      "link": "https://amarsomiti.com/",
+      "technologies": "Laravel, PHP, MySQL, React",
       "description": [
         "Developed financial modules: DPS, FDR, Savings, Share management, and Loan processing with payment (SSLCommerz) and BulkSMS services.",
         "Implemented database transaction integrity, balance validation, concurrent account management, and integrated RabbitMQ as a message broker for reliable asynchronous processing."
@@ -124,38 +127,39 @@
   ],
   "skills": {
     "Languages": "PHP, JavaScript, TypeScript, Python, C, C++",
-    "Frontend": "React.js, Tailwind CSS, Bootstrap",
-    "Backend": "Laravel, WordPress Plugin development, Node.js",
-    "Databases": "MySQL, PostgreSQL",
-    "Data Science & Machine Learning": "Pandas, NumPy, Scikit-learn, PyTorch",
-    "Tools & Platforms": "Git, GitHub, Swagger, CI/CD, Postman, Mailpit, Redis, Linux, Docker"
+    "Backend Frameworks & Architectures": "Laravel, Node.js, Modular Architecture, RESTful API Design",
+    "Content Management Systems": "WordPress Premium Plugin Development (Elementor Ecosystem)",
+    "Frontend Technologies": "React.js, Tailwind CSS, Bootstrap",
+    "Databases & Caching": "MySQL, PostgreSQL, MongoDB, Redis",
+    "Data Science & Machine Learning": "PyTorch, Scikit-learn, Pandas, NumPy",
+    "DevOps, Tools & Platforms": "Git, GitHub, Docker, CI/CD (GitHub Actions), Swagger, Postman, Mailpit, Linux"
   },
   "achievements": [
     {
       "title": "Ankur International Undergraduate Scholarship",
-      "link": "https://ankur-international.org",
+      "link": "https://ankurintl.org/",
       "period": "Feb 2022 – Feb 2024",
-      "description": "For academic project excellence and encouraged to pursue advanced projects and research initiatives."
+      "description": "Awarded for academic project excellence and recognized for potential in advanced research initiatives."
     }
   ],
   "volunteer": [
     {
       "role": "Project and Technical Wing – CSE Club PSTU",
-      "link": "https://cseclub.pstu.ac.bd",
-      "period": "January 2025 - Present",
+      "link": "https://cseclub.pstu.ac.bd/",
+      "period": "Jan 2025 - Dec 2025",
       "description": "Assist in organizing technical events, workshops, hackathons, and programming contests for 500+ students."
     },
     {
-      "role": "Secretary of Science and Technology – Tarunyer Shopno Foundation",
-      "link": "https://tarunyershopno.org",
-      "period": "July 2019 - May 2020",
-      "description": "Lead technology initiatives at village non-profit, organizing workshops for high school and college students."
+      "role": "Rover Mate – PSTU Rover Scout",
+      "link": "",
+      "period": "Jan 2022 - Dec 2025",
+      "description": "Develop and maintain organization website while coordinating technology events for voluntary scout group."
     },
     {
-      "role": "Rover Mate – PSTU Rover Scout",
-      "link": "https://pstu-rovers.org",
-      "period": "2020 - Present",
-      "description": "Develop and maintain organization website while coordinating technology events for voluntary scout group."
+      "role": "Secretary of Science and Technology – Tarunyer Shopno Foundation",
+      "link": "https://www.facebook.com/profile.php?id=100063963033631",
+      "period": "July 2019 - May 2020",
+      "description": "Lead technology initiatives at village non-profit, organizing workshops for high school and college students."
     }
   ]
 }
