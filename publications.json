@@ -1,6 +1,6 @@
 [
   {
-    "title": "Extended JSON Web Token (EjwT): A Secure Authentication Framework with Dynamic Cryptographic Randomization and LSTM-based Anomaly Detection",
+    "title": "EjwT: Enhancing JWT Security through Dynamic Cryptographic & LSTM Networks",
     "type": "Conference Paper",
     "authors": [
       { "name": "Shishir Bhuiya", "isMe": true },
@@ -13,7 +13,7 @@
     "keywords": ["JWT Security", "Authentication", "Cryptography", "LSTM", "Anomaly Detection", "AES-GCM", "Cybersecurity"],
     "publicationLink": "https://ieeexplore.ieee.org/document/11429432/",
     "facebookPostLink": "",
-    "pdfLink": "",
+    "pdfLink": "https://drive.google.com/uc?export=download&id=11FGFMNWKyzYQqDU2PZo7R0Gqcrzq76-O",
     "codeLink": "",
     "slidesLink": "",
     "posterLink": "",
@@ -35,7 +35,7 @@
     ]
   },
   {
-    "title": "THz Metamaterial Absorber with KNN-Based Performance Prediction for Electromagnetic Interference Shielding and Sensing Applications",
+    "title": "Machine Learning-Enhanced Polarization Insensitive Metamaterial Absorber for Hazardous Gas Detection",
     "type": "Conference Paper",
     "authors": [
       { "name": "Shishir Bhuiya", "isMe": true },
@@ -46,7 +46,7 @@
     "keywords": ["Metamaterials", "THz Absorber", "KNN Regressor", "Electromagnetic Shielding", "Machine Learning", "Sensing Applications"],
     "publicationLink": "https://doi.org/10.1109/ICTP68765.2025.11415096",
     "facebookPostLink": "",
-    "pdfLink": "",
+    "pdfLink": "https://drive.google.com/uc?export=download&id=1FkO3Udoy0A9BPzfJiff3k2FGSqV-jfKC",
     "codeLink": "",
     "slidesLink": "",
     "posterLink": "",
@@ -77,9 +77,9 @@
     "date": "",
     "abstract": "The integration of innovative technologies such as the Internet of Things (IoT) and Machine Learning (ML) presents a transformative approach to enhancing traditional fish farming practices. Conventional fish farming often faces challenges due to high labor costs, unmonitored water quality monitoring changes, fish disease outbreaks, and recommendation of optimal fish species. In this paper, present MachDishari system that is IoT based ML recommendation system designed to automate water quality monitoring and suggests appropriate fish species based on various water quality parameters —including pH, temperature, TDS, water level, DO, BOD, COD and turbidity. We developed IoT sensors for real time data collection of water parameters, and machine learning algorithms including Random Forest (RF), Support Vector Machine (SVM), K-Nearest Neighbor (KNN) and Logistic Regression (LR) were applied to the pond water real-time dataset. Federated Learning (FL) into our design integrate for sensitive data privacy and train machine learning models collaboratively without centralizing sensitive data. This approach preserves data privacy and enables farms in remote areas to collaboratively improve model performance without risking data leakage. A range of XAI methods was applied in the present study to enhance the interpretability and transparency of fish recommendation. Among tested models XGBoost that achieved the best performance, delivering 99.8% accuracy was deployed in a web interface and app, enabling farmers to receive real time water quality assessments and fish species recommendations and then expected to enhance fish yield for modern aquaculture with preserving data privacy.",
     "keywords": ["IoT", "Aquaculture", "Federated Learning", "XAI", "Machine Learning", "Water Quality Monitoring", "Fish Farming", "XGBoost"],
-    "publicationLink": "",
+    "publicationLink": "https://ieeexplore.ieee.org/abstract/document/11502376",
     "facebookPostLink": "",
-    "pdfLink": "",
+    "pdfLink": "https://drive.google.com/uc?export=download&id=1G4k1I76-1NZCHZOyyKHmmj4Uj4b_SMG-",
     "codeLink": "",
     "slidesLink": "",
     "posterLink": "",
@@ -93,7 +93,7 @@
     "conferencePhotos": []
   },
   {
-    "title": "FTWERF: A Federated Temporal-Weighted Self Evolving Forest Framework under Concept Drift",
+    "title": "FTWERF: A Federated Temporal Weighted Self Evolving Forest Framework Under Concept Drift",
     "type": "Conference Paper",
     "authors": [
       { "name": "Shishir Bhuiya", "isMe": true }
@@ -101,9 +101,9 @@
     "date": "",
     "abstract": "Random Forests were traditionally not effective in dealing with changing data streams that have concept drift since they are not typically knowledge management over time. It is the issue of concept drift that appears because of the time dependent changes in the distribution of data. In response to this, the FTWERF suggests the use of the temporally weighted layer to prioritize the more recent data and allow the responsiveness to the newly created patterns. Besides, self evolving strategy and the alteration of the architecture is used by TWERF to guarantee that data is used optimally as the dynamics change. This flexibility is very essential in proper reflection or representation of dynamic systems. This is why it is a good candidate for Federated Learning, a process of training a model over a large number of devices while keeping all the devices synchronized without necessarily storing raw data on a central computer. By gathering these three aspects, the safety is enhanced, memory footprints are minimized, and the processes go on faster. Experimentally We verify FTWERF by proving it is significantly better than simple Random Forests and even competing with the state-of-the-art algorithms. One of the areas that FTWERF is able to handle is temporal data as shown by these results. Such adaptability and adjustment of the structure make it a sound and speedy solution to adapt to the changes of the real-world issues which provide unceasing changes of data streams. FTWERF is advantageous as it is a temporal environment that is training free and provides a great and corrective predictive model of dynamic data-affine tasks. In more specific terms, the temporal weighting is based on an adaptive window in order to give more priority to data that is more relevant to the current detection, and the part that is self evolving is the one that further produces the tree structure and feature selection in a manner that is understandable to evolutionary biology.",
     "keywords": ["Federated Learning", "Random Forest", "Concept Drift", "Temporal Weighting", "Self-Evolving", "Data Streams", "Machine Learning", "Adaptive Systems"],
-    "publicationLink": "",
+    "publicationLink": "https://ieeexplore.ieee.org/document/11504106",
     "facebookPostLink": "",
-    "pdfLink": "",
+    "pdfLink": "https://drive.google.com/uc?export=download&id=1vAE_dqw7SVj9ybxnVdtmvis11vyg1qIC",
     "codeLink": "",
     "slidesLink": "",
     "posterLink": "",
