@@ -73,11 +73,7 @@
         "Premium CRM modules with features like real-time transaction validation, payment gateway integrations (SSLCommerz), media library management and campaign automation etc.",
         "Developed RESTful APIs, and integrated RabbitMQ as a message broker for asynchronous processing.",
         "Optimized performance with bulk operations, Redis caching and full-text search powered by Elasticsearch.",
-        "Implemented CI/CD pipelines with GitHub Actions, Dockerized deployments.",
-        {
-          "text": "",
-          "link": ""
-        }
+        "Implemented CI/CD pipelines with GitHub Actions, Dockerized deployments."
       ]
     },
     {
