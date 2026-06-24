@@ -75,8 +75,8 @@
         "Optimized performance with bulk operations, Redis caching and full-text search powered by Elasticsearch.",
         "Implemented CI/CD pipelines with GitHub Actions, Dockerized deployments.",
         {
-          "text": "Github: https://github.com/laradashboard/laradashboard",
-          "link": "https://github.com/laradashboard/laradashboard"
+          "text": "",
+          "link": ""
         }
       ]
     },
